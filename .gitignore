@@ -1,0 +1,16 @@
+target/
+
+.idea/
+*.iml
+out/
+
+.classpath
+.project
+.settings/
+.vscode/
+
+APDescription.txt
+MTPs-Main-Container.txt
+
+.DS_Store
+Thumbs.db
