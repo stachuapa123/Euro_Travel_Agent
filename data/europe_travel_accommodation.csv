@@ -1,0 +1,1001 @@
+property_id,property_name,city,country,type,stars,rating,distance_center_km,nightly_price_eur,breakfast_included,free_cancellation,wifi,capacity,negotiation_enabled,max_discount_percent
+H0001,City Inn 001,Prague,Czechia,guesthouse,4,7.1,2.8,62.12,no,yes,yes,3,yes,20
+H0002,Royal Stay 002,Prague,Czechia,guesthouse,2,9.2,5.4,190.58,no,yes,yes,4,yes,5
+H0003,Central Rooms 003,Krakow,Poland,apartment,4,9.1,2,90.25,no,yes,yes,4,yes,15
+H0004,Grand Hotel 004,Barcelona,Spain,hostel,4,7.9,1.2,218.41,no,no,yes,3,no,0
+H0005,Smart Stay 005,Rome,Italy,hotel,5,9.1,1.5,140.24,no,yes,yes,2,yes,20
+H0006,Central Stay 006,Gdansk,Poland,hostel,5,7.2,1.1,164.69,yes,no,yes,2,yes,20
+H0007,Royal Lodge 007,Warsaw,Poland,hotel,3,8.5,4.7,69.42,no,no,yes,2,no,0
+H0008,Central Rooms 008,Warsaw,Poland,apartment,5,7.4,2.4,92.73,yes,no,yes,1,yes,15
+H0009,Canal Hotel 009,Paris,France,guesthouse,4,8.2,1.8,192.27,no,no,yes,2,yes,15
+H0010,Old Town Residence 010,Berlin,Germany,hostel,2,7.2,3.4,160.52,no,yes,yes,3,yes,5
+H0011,Green Lodge 011,Berlin,Germany,guesthouse,2,8.3,3.9,181.23,no,no,yes,1,yes,10
+H0012,Central Hotel 012,Paris,France,hostel,4,7.1,1.5,61.25,no,no,yes,4,yes,10
+H0013,City Stay 013,Vienna,Austria,hostel,4,7,3.5,46.51,yes,yes,yes,3,yes,5
+H0014,City Rooms 014,Rome,Italy,hostel,3,9.1,4.1,72.64,yes,yes,yes,3,no,0
+H0015,Green Lodge 015,Budapest,Hungary,hostel,4,9.1,5.7,76.94,yes,yes,yes,4,yes,5
+H0016,Central Inn 016,Krakow,Poland,hostel,5,7.3,2.6,177.52,yes,yes,yes,2,no,0
+H0017,Smart Hotel 017,Berlin,Germany,hotel,2,7.6,4.6,196.98,yes,yes,yes,1,yes,15
+H0018,Canal Inn 018,Budapest,Hungary,hotel,5,7.6,4.6,88.3,no,no,yes,1,yes,5
+H0019,Riverside Lodge 019,Amsterdam,Netherlands,guesthouse,5,8.5,2.3,119.42,no,yes,yes,4,yes,15
+H0020,Riverside Rooms 020,Budapest,Hungary,hotel,5,7.4,2.6,85.24,yes,yes,yes,1,yes,15
+H0021,Smart Rooms 021,Vienna,Austria,hotel,5,8.4,1.3,83.98,yes,no,yes,3,yes,20
+H0022,Smart Inn 022,Vienna,Austria,apartment,4,7.8,3.5,134.17,no,no,yes,2,yes,5
+H0023,Royal Lodge 023,Berlin,Germany,hostel,3,7.5,2.5,158.68,no,no,yes,1,yes,5
+H0024,Royal Rooms 024,Vienna,Austria,guesthouse,3,8.7,3.3,67.78,no,yes,yes,3,yes,10
+H0025,Grand Residence 025,Barcelona,Spain,guesthouse,4,9.2,3.5,169.08,yes,yes,yes,3,yes,10
+H0026,Smart Lodge 026,Rome,Italy,guesthouse,4,7.7,5.4,62.52,yes,yes,yes,4,no,0
+H0027,Central Stay 027,Paris,France,hostel,5,7.2,4.3,195.08,no,no,yes,4,no,0
+H0028,City Stay 028,Berlin,Germany,hotel,2,7.8,1.7,128.48,no,no,yes,4,yes,10
+H0029,City Inn 029,Berlin,Germany,guesthouse,4,7.7,1.7,191.81,yes,yes,yes,1,yes,10
+H0030,Canal Rooms 030,Warsaw,Poland,guesthouse,2,8.3,2.9,199.97,yes,no,yes,4,yes,20
+H0031,Grand Rooms 031,Barcelona,Spain,apartment,3,9.5,2.1,129.38,yes,no,yes,1,yes,20
+H0032,Canal Inn 032,Vienna,Austria,hostel,2,8.9,4.7,98.85,no,yes,yes,1,yes,20
+H0033,Smart Lodge 033,Amsterdam,Netherlands,apartment,3,9.4,5.2,81.97,no,no,yes,1,yes,10
+H0034,Royal Hotel 034,Prague,Czechia,hostel,5,9.1,5.1,54.29,yes,no,yes,2,yes,10
+H0035,Canal Hotel 035,Gdansk,Poland,hotel,2,7.5,1.6,211.66,no,no,yes,3,yes,20
+H0036,Riverside Inn 036,Amsterdam,Netherlands,hostel,4,8.7,3,187.07,no,yes,yes,2,yes,10
+H0037,Central Lodge 037,Warsaw,Poland,apartment,5,9.6,5.2,81.06,yes,no,yes,3,no,0
+H0038,Grand Stay 038,Rome,Italy,hostel,3,9.2,3.6,196.25,no,yes,yes,3,yes,10
+H0039,Green Rooms 039,Krakow,Poland,guesthouse,5,7.7,4.5,113.55,no,no,yes,2,yes,15
+H0040,Riverside Inn 040,Rome,Italy,hostel,3,9.5,2.7,196.36,no,no,yes,4,no,0
+H0041,Grand Inn 041,Warsaw,Poland,hostel,5,9.3,5,60.38,yes,yes,yes,1,yes,20
+H0042,Old Town Lodge 042,Barcelona,Spain,hostel,4,7.8,5.6,47.82,no,no,yes,2,no,0
+H0043,Central Lodge 043,Krakow,Poland,apartment,2,9.2,2,210.8,no,yes,yes,1,yes,20
+H0044,Riverside Stay 044,Amsterdam,Netherlands,hotel,5,8.3,5.7,165.51,yes,no,yes,1,yes,5
+H0045,Grand Lodge 045,Prague,Czechia,apartment,5,8.6,4.7,80.46,yes,yes,yes,1,yes,20
+H0046,Grand Lodge 046,Gdansk,Poland,apartment,5,7.2,2.8,148.76,no,yes,yes,4,yes,5
+H0047,Smart Inn 047,Berlin,Germany,guesthouse,5,7,4.9,191.77,no,yes,yes,3,no,0
+H0048,Green Residence 048,Vienna,Austria,apartment,4,7.6,3.4,96.23,no,no,yes,1,no,0
+H0049,City Inn 049,Budapest,Hungary,hostel,4,9.4,5.1,190.8,no,no,yes,4,no,0
+H0050,Royal Inn 050,Munich,Germany,apartment,4,7.4,3.2,42.48,no,yes,yes,4,no,0
+H0051,City Inn 051,Krakow,Poland,apartment,4,7.9,1.5,95.79,no,no,yes,1,yes,5
+H0052,Green Residence 052,Budapest,Hungary,apartment,2,7.3,2.5,149.58,no,no,yes,2,yes,5
+H0053,Old Town Inn 053,Prague,Czechia,hostel,2,7.6,1.6,147.24,yes,no,yes,4,yes,20
+H0054,City Hotel 054,Krakow,Poland,guesthouse,3,9.3,3.7,52.61,no,yes,yes,3,yes,5
+H0055,Green Residence 055,Rome,Italy,hotel,3,8,4.2,103.1,no,yes,yes,1,yes,10
+H0056,Canal Hotel 056,Paris,France,hotel,2,7.7,5.9,180.46,no,no,yes,3,yes,20
+H0057,Old Town Hotel 057,Prague,Czechia,hotel,5,7.4,1.9,85.75,yes,yes,yes,1,no,0
+H0058,Royal Residence 058,Budapest,Hungary,hostel,5,7.8,2.5,183.24,yes,yes,yes,4,yes,20
+H0059,Canal Inn 059,Krakow,Poland,hotel,4,8.1,3.7,133.32,yes,no,yes,2,yes,20
+H0060,Royal Lodge 060,Prague,Czechia,hotel,3,8.7,0.9,101.76,yes,no,yes,2,yes,15
+H0061,Old Town Hotel 061,Paris,France,apartment,5,7.7,5.3,216.83,no,no,yes,3,no,0
+H0062,Canal Lodge 062,Krakow,Poland,hostel,4,7.6,5.8,42.74,no,no,yes,3,yes,5
+H0063,Central Inn 063,Paris,France,guesthouse,4,9.1,2.3,130.85,yes,no,yes,3,no,0
+H0064,Central Rooms 064,Gdansk,Poland,hostel,5,7.4,2.6,122.94,yes,yes,yes,2,yes,20
+H0065,Grand Hotel 065,Paris,France,guesthouse,4,7.3,4.8,182.35,yes,yes,yes,2,yes,15
+H0066,Royal Hotel 066,Paris,France,apartment,4,7.1,0.4,51.19,no,yes,yes,2,yes,5
+H0067,Royal Stay 067,Budapest,Hungary,guesthouse,3,8.3,4.5,217.7,no,yes,yes,1,yes,5
+H0068,Central Lodge 068,Gdansk,Poland,hotel,2,8,1.8,54.22,yes,no,yes,4,yes,10
+H0069,Royal Residence 069,Vienna,Austria,guesthouse,4,8.4,5.5,206.86,yes,yes,yes,2,yes,15
+H0070,Royal Residence 070,Prague,Czechia,hostel,4,7.9,5.3,62.74,yes,no,yes,3,yes,20
+H0071,Grand Inn 071,Barcelona,Spain,hostel,5,7.3,4.7,67.24,yes,yes,yes,1,yes,10
+H0072,Grand Rooms 072,Budapest,Hungary,hostel,5,9,2.4,182.17,yes,no,yes,2,yes,15
+H0073,Old Town Inn 073,Munich,Germany,apartment,2,9.6,2.5,62.53,yes,no,yes,2,yes,10
+H0074,Old Town Stay 074,Rome,Italy,hotel,5,7.9,1.9,146.65,no,yes,yes,4,yes,20
+H0075,Central Hotel 075,Amsterdam,Netherlands,apartment,2,8.6,1.1,133.68,no,no,yes,4,no,0
+H0076,Royal Lodge 076,Krakow,Poland,hotel,4,9.6,5.3,52.06,no,no,yes,2,yes,20
+H0077,Green Residence 077,Budapest,Hungary,apartment,5,8.2,2.8,169.01,no,yes,yes,1,yes,10
+H0078,City Inn 078,Vienna,Austria,guesthouse,3,7.7,4.9,96.89,yes,no,yes,1,no,0
+H0079,Canal Hotel 079,Prague,Czechia,hotel,5,7.6,5.5,102.95,no,yes,yes,2,yes,5
+H0080,Royal Hotel 080,Rome,Italy,guesthouse,4,9.3,5,81.08,yes,yes,yes,1,yes,5
+H0081,Grand Lodge 081,Munich,Germany,hotel,4,7.2,2.1,208.16,yes,yes,yes,3,yes,10
+H0082,Smart Stay 082,Warsaw,Poland,hostel,3,8,2.7,138.49,no,yes,yes,2,yes,5
+H0083,Riverside Hotel 083,Warsaw,Poland,hotel,3,7.4,1.7,98.21,yes,yes,yes,1,no,0
+H0084,Riverside Lodge 084,Paris,France,hotel,2,8.7,3.8,148.07,yes,no,yes,3,no,0
+H0085,Central Lodge 085,Vienna,Austria,hostel,2,8.5,5.5,54.25,no,yes,yes,2,yes,5
+H0086,Central Stay 086,Budapest,Hungary,guesthouse,2,7.4,5.5,170.65,yes,yes,yes,4,yes,20
+H0087,Royal Stay 087,Rome,Italy,hotel,3,8.4,0.8,213.09,yes,no,yes,4,no,0
+H0088,Royal Rooms 088,Budapest,Hungary,apartment,3,9.4,5.8,44.93,no,no,yes,4,yes,15
+H0089,Riverside Stay 089,Vienna,Austria,hotel,2,7.4,1.2,43.89,yes,yes,yes,4,yes,15
+H0090,Grand Stay 090,Paris,France,hotel,5,8.9,4.4,181.41,no,no,yes,4,yes,15
+H0091,City Residence 091,Amsterdam,Netherlands,hostel,3,9.2,5.2,162.08,no,no,yes,4,yes,5
+H0092,Smart Rooms 092,Paris,France,hostel,3,8.8,0.4,117.56,yes,yes,yes,3,yes,15
+H0093,Canal Stay 093,Warsaw,Poland,hotel,2,9.1,0.4,73.66,no,yes,yes,2,yes,10
+H0094,Green Lodge 094,Gdansk,Poland,apartment,2,9.4,0.3,107.11,yes,no,yes,3,yes,20
+H0095,Canal Residence 095,Paris,France,apartment,3,9.6,1.4,98.41,no,no,yes,4,no,0
+H0096,Central Lodge 096,Paris,France,apartment,2,8.9,2.1,207.57,no,no,yes,4,no,0
+H0097,City Rooms 097,Rome,Italy,guesthouse,2,7.5,4.7,53.36,no,yes,yes,1,no,0
+H0098,Central Rooms 098,Paris,France,hotel,2,8.1,3,62.24,no,no,yes,1,yes,15
+H0099,Green Lodge 099,Munich,Germany,hostel,2,8.1,1,134.96,no,yes,yes,4,yes,5
+H0100,Smart Hotel 100,Berlin,Germany,apartment,2,7.5,1.7,131.73,no,no,yes,2,yes,10
+H0101,City Hotel 101,Gdansk,Poland,hotel,5,8.3,4.1,151.16,no,no,yes,3,yes,20
+H0102,Grand Inn 102,Budapest,Hungary,apartment,5,7.8,4.1,164.23,no,no,yes,1,yes,15
+H0103,Grand Inn 103,Paris,France,hotel,5,7.8,3.8,50.21,no,yes,yes,2,yes,5
+H0104,City Rooms 104,Budapest,Hungary,hotel,5,7.9,4.5,91.47,no,no,yes,1,yes,20
+H0105,Old Town Hotel 105,Warsaw,Poland,hostel,3,7.1,2.1,72.85,yes,no,yes,4,yes,20
+H0106,Smart Inn 106,Prague,Czechia,hotel,3,7.7,5,192.75,yes,no,yes,4,no,0
+H0107,Grand Residence 107,Budapest,Hungary,guesthouse,4,8.6,0.4,70.44,yes,yes,yes,1,no,0
+H0108,Old Town Hotel 108,Warsaw,Poland,hostel,4,8.4,4.7,105.33,yes,yes,yes,3,yes,20
+H0109,Old Town Stay 109,Paris,France,hostel,2,9.4,3.4,101.35,yes,yes,yes,3,yes,10
+H0110,Central Rooms 110,Rome,Italy,hotel,4,9.2,5,67.95,yes,no,yes,1,no,0
+H0111,Old Town Rooms 111,Gdansk,Poland,guesthouse,5,7.7,3.1,41.56,yes,yes,yes,2,yes,20
+H0112,Smart Rooms 112,Budapest,Hungary,apartment,2,8.7,2.2,200.83,no,no,yes,4,yes,10
+H0113,Canal Lodge 113,Budapest,Hungary,guesthouse,3,7.6,2.6,207.91,no,yes,yes,2,yes,5
+H0114,Royal Inn 114,Vienna,Austria,hostel,4,7.2,5.3,90.52,yes,no,yes,2,yes,15
+H0115,Riverside Inn 115,Budapest,Hungary,guesthouse,5,8.2,2.4,179.92,yes,yes,yes,4,yes,15
+H0116,City Inn 116,Vienna,Austria,hostel,2,7.9,2.8,182.87,no,yes,yes,2,yes,5
+H0117,Old Town Hotel 117,Berlin,Germany,guesthouse,4,9.5,1.9,60.29,no,no,yes,3,yes,15
+H0118,Central Inn 118,Barcelona,Spain,apartment,3,8.4,4.1,202.04,no,no,yes,2,yes,10
+H0119,Grand Rooms 119,Vienna,Austria,guesthouse,3,8.1,5.3,117.08,no,no,yes,3,yes,20
+H0120,Grand Residence 120,Barcelona,Spain,hotel,2,8.6,0.3,66.4,no,no,yes,2,no,0
+H0121,Old Town Rooms 121,Barcelona,Spain,hotel,4,8,2,178.33,no,no,yes,1,yes,15
+H0122,City Stay 122,Warsaw,Poland,hotel,3,8.3,4.1,140.69,no,no,yes,1,yes,5
+H0123,Royal Residence 123,Barcelona,Spain,guesthouse,3,7.2,6,80.1,yes,yes,yes,3,no,0
+H0124,Canal Stay 124,Amsterdam,Netherlands,apartment,3,7.8,4.1,72.89,yes,yes,yes,2,no,0
+H0125,Grand Residence 125,Barcelona,Spain,hostel,4,7.7,5.8,158.13,no,yes,yes,2,yes,15
+H0126,Green Inn 126,Berlin,Germany,apartment,2,7.9,2.9,140.81,yes,no,yes,1,no,0
+H0127,Green Residence 127,Paris,France,apartment,3,8.3,4.4,70.91,no,no,yes,4,no,0
+H0128,Canal Hotel 128,Warsaw,Poland,hostel,4,8.8,5.9,42.43,no,yes,yes,2,no,0
+H0129,Smart Lodge 129,Budapest,Hungary,apartment,4,7.8,3.7,118.98,yes,yes,yes,1,yes,5
+H0130,Green Stay 130,Munich,Germany,apartment,2,8.1,2.3,127.35,no,no,yes,1,yes,15
+H0131,Central Residence 131,Barcelona,Spain,apartment,3,7,3,82.61,no,yes,yes,2,yes,10
+H0132,Green Residence 132,Warsaw,Poland,apartment,2,8.9,2.8,106.48,yes,yes,yes,1,yes,5
+H0133,City Residence 133,Vienna,Austria,guesthouse,2,7.2,3.4,186.92,no,yes,yes,1,yes,15
+H0134,Central Hotel 134,Berlin,Germany,hostel,2,8.2,2.7,178.67,yes,no,yes,2,no,0
+H0135,Riverside Residence 135,Barcelona,Spain,guesthouse,5,9.4,2.1,102.58,no,no,yes,1,yes,10
+H0136,Smart Inn 136,Warsaw,Poland,guesthouse,5,7.7,3.2,55.21,yes,no,yes,1,yes,20
+H0137,Canal Stay 137,Rome,Italy,hostel,3,8.3,0.6,57.57,no,no,yes,4,yes,20
+H0138,Old Town Residence 138,Paris,France,hotel,5,9.5,1.9,165.35,no,no,yes,2,yes,10
+H0139,Canal Stay 139,Paris,France,guesthouse,4,8.5,4.5,62.74,yes,yes,yes,2,no,0
+H0140,Green Rooms 140,Rome,Italy,guesthouse,5,8.6,0.4,204.56,yes,yes,yes,3,no,0
+H0141,Grand Hotel 141,Amsterdam,Netherlands,hotel,2,8.4,0.7,192.61,no,yes,yes,2,yes,10
+H0142,Canal Hotel 142,Warsaw,Poland,hotel,4,8.4,4.8,206.25,yes,yes,yes,2,yes,15
+H0143,Old Town Inn 143,Vienna,Austria,hostel,5,8.9,3.2,160.04,yes,yes,yes,3,yes,10
+H0144,Smart Hotel 144,Barcelona,Spain,hostel,2,7.8,1.2,134.27,yes,yes,yes,1,yes,20
+H0145,Grand Hotel 145,Munich,Germany,apartment,4,7.7,2.1,47.51,yes,yes,yes,1,yes,20
+H0146,Riverside Stay 146,Berlin,Germany,guesthouse,2,9.2,1.8,204.82,no,no,yes,2,no,0
+H0147,Riverside Lodge 147,Warsaw,Poland,guesthouse,5,7.8,3.8,157.4,no,no,yes,1,no,0
+H0148,Canal Rooms 148,Prague,Czechia,apartment,2,7.3,4.6,124.9,no,no,yes,2,yes,10
+H0149,Royal Hotel 149,Krakow,Poland,hotel,3,7.4,5.1,101.84,yes,yes,yes,4,yes,10
+H0150,Central Rooms 150,Munich,Germany,hostel,4,9.6,0.8,128.62,no,no,yes,2,no,0
+H0151,Grand Rooms 151,Barcelona,Spain,guesthouse,3,7.8,2,74.85,no,yes,yes,4,yes,20
+H0152,Riverside Rooms 152,Vienna,Austria,guesthouse,3,7.5,3.2,157.31,yes,yes,yes,1,yes,15
+H0153,Green Hotel 153,Rome,Italy,hotel,3,7,5.7,59.28,no,no,yes,1,no,0
+H0154,Riverside Inn 154,Amsterdam,Netherlands,hotel,5,9,0.6,218.56,yes,yes,yes,3,yes,5
+H0155,Smart Lodge 155,Krakow,Poland,hotel,4,9.1,3.7,165.06,no,yes,yes,3,no,0
+H0156,Canal Stay 156,Gdansk,Poland,apartment,4,9.2,0.5,203.83,yes,no,yes,1,yes,20
+H0157,Smart Stay 157,Budapest,Hungary,guesthouse,2,9.1,1.8,168.14,yes,yes,yes,2,no,0
+H0158,Grand Residence 158,Paris,France,hostel,5,8.7,3.4,169.39,no,no,yes,3,yes,15
+H0159,Green Hotel 159,Barcelona,Spain,hotel,5,7.2,1.2,131.82,yes,no,yes,1,yes,5
+H0160,Riverside Rooms 160,Rome,Italy,hotel,4,8.1,4.5,198.29,yes,no,yes,1,yes,20
+H0161,City Stay 161,Krakow,Poland,hostel,3,8.1,0.6,152.33,yes,yes,yes,4,yes,15
+H0162,Green Hotel 162,Berlin,Germany,hostel,2,9.6,4.8,74.5,no,no,yes,2,yes,20
+H0163,Canal Hotel 163,Barcelona,Spain,guesthouse,5,9.1,2.1,57.09,yes,no,yes,3,yes,5
+H0164,Riverside Rooms 164,Prague,Czechia,apartment,4,8.5,2.1,163.79,no,no,yes,1,no,0
+H0165,Grand Rooms 165,Krakow,Poland,apartment,2,8.8,2.7,140.41,no,yes,yes,2,no,0
+H0166,Smart Stay 166,Budapest,Hungary,apartment,5,8.5,3.7,115.18,no,no,yes,3,yes,10
+H0167,Smart Lodge 167,Krakow,Poland,apartment,4,8.9,5.8,126.3,yes,no,yes,4,yes,15
+H0168,Grand Hotel 168,Krakow,Poland,apartment,2,8.3,1.3,129.61,yes,no,yes,1,no,0
+H0169,Grand Stay 169,Krakow,Poland,guesthouse,5,8.8,4.3,73.96,yes,yes,yes,2,yes,10
+H0170,Royal Residence 170,Rome,Italy,hotel,5,8.8,2.2,204.21,no,yes,yes,2,yes,15
+H0171,Old Town Stay 171,Berlin,Germany,hotel,2,8.3,1.2,55.95,yes,no,yes,2,yes,10
+H0172,Riverside Rooms 172,Paris,France,hotel,4,9.5,1.6,41.21,yes,no,yes,4,no,0
+H0173,Central Stay 173,Warsaw,Poland,hostel,4,7.4,1.2,95.53,yes,yes,yes,4,no,0
+H0174,Smart Inn 174,Krakow,Poland,guesthouse,4,7.1,4.4,178.86,yes,yes,yes,3,no,0
+H0175,Royal Hotel 175,Warsaw,Poland,hostel,3,8.1,3.1,212.52,no,no,yes,2,no,0
+H0176,Riverside Inn 176,Warsaw,Poland,apartment,3,9.5,2.4,201.62,yes,yes,yes,2,no,0
+H0177,Central Stay 177,Vienna,Austria,hostel,2,7.2,4.8,101.59,yes,yes,yes,4,no,0
+H0178,Royal Rooms 178,Vienna,Austria,hostel,5,7.7,3.8,199.71,no,no,yes,1,yes,10
+H0179,Canal Residence 179,Barcelona,Spain,hotel,2,7.7,1.6,76.18,no,yes,yes,3,no,0
+H0180,Riverside Hotel 180,Budapest,Hungary,hotel,4,7.6,5.1,85.32,no,yes,yes,2,yes,10
+H0181,Riverside Inn 181,Vienna,Austria,apartment,3,8.4,4.4,196.41,no,yes,yes,1,yes,15
+H0182,City Stay 182,Budapest,Hungary,hostel,3,9.3,0.8,71.25,yes,yes,yes,3,yes,15
+H0183,Royal Inn 183,Vienna,Austria,apartment,3,9.5,4.8,156.95,yes,yes,yes,3,yes,10
+H0184,Canal Hotel 184,Gdansk,Poland,guesthouse,2,7.4,5.2,81.92,no,yes,yes,3,yes,15
+H0185,Smart Inn 185,Munich,Germany,hotel,2,9.3,3.6,169.08,no,yes,yes,2,yes,5
+H0186,Canal Residence 186,Paris,France,apartment,3,8,1.3,197.77,yes,yes,yes,1,no,0
+H0187,Central Residence 187,Vienna,Austria,apartment,3,8.1,4.5,59.8,no,no,yes,3,yes,10
+H0188,City Stay 188,Barcelona,Spain,hostel,4,7.6,0.5,121.07,no,no,yes,1,yes,20
+H0189,City Residence 189,Krakow,Poland,hostel,2,8.9,3.1,66.02,yes,no,yes,4,no,0
+H0190,Old Town Lodge 190,Berlin,Germany,hostel,4,7.9,1.2,71,yes,yes,yes,2,no,0
+H0191,Grand Hotel 191,Gdansk,Poland,hostel,3,7.5,3.9,187.62,no,yes,yes,2,yes,10
+H0192,Old Town Rooms 192,Prague,Czechia,hotel,5,9.2,0.6,166.93,no,no,yes,2,yes,5
+H0193,Old Town Hotel 193,Paris,France,guesthouse,5,9.6,1.3,143.47,no,no,yes,3,yes,5
+H0194,City Rooms 194,Amsterdam,Netherlands,hostel,3,8.2,1.1,183.71,no,no,yes,1,yes,5
+H0195,Canal Rooms 195,Amsterdam,Netherlands,guesthouse,5,8.8,1,152.82,yes,no,yes,4,yes,10
+H0196,Royal Lodge 196,Warsaw,Poland,hostel,5,8.2,4.8,51.69,no,no,yes,3,yes,15
+H0197,Riverside Inn 197,Rome,Italy,hostel,3,7.9,2.3,109.67,no,no,yes,4,yes,20
+H0198,City Stay 198,Gdansk,Poland,guesthouse,2,9.3,5.4,219.19,no,yes,yes,1,yes,10
+H0199,Central Residence 199,Rome,Italy,hotel,4,9.1,1.3,157.13,yes,no,yes,1,yes,10
+H0200,Central Lodge 200,Rome,Italy,apartment,4,9.3,2.2,198.83,yes,yes,yes,4,no,0
+H0201,City Residence 201,Krakow,Poland,hostel,2,8.9,4.8,195.19,yes,yes,yes,2,yes,10
+H0202,Royal Hotel 202,Budapest,Hungary,guesthouse,3,7.5,3,93.62,no,yes,yes,1,yes,10
+H0203,Riverside Stay 203,Krakow,Poland,guesthouse,2,9.4,2.3,100.35,yes,no,yes,3,yes,5
+H0204,Central Stay 204,Munich,Germany,hostel,2,7.1,2.5,155.88,no,no,yes,1,yes,20
+H0205,Riverside Residence 205,Amsterdam,Netherlands,guesthouse,5,7.7,5.6,154.29,no,no,yes,1,yes,5
+H0206,Grand Stay 206,Rome,Italy,guesthouse,2,8.6,1.4,81.98,yes,yes,yes,2,yes,20
+H0207,City Hotel 207,Munich,Germany,hostel,3,8.5,3.1,189.25,yes,no,yes,3,yes,20
+H0208,Smart Inn 208,Paris,France,hotel,2,7.5,4,171.65,no,no,yes,1,yes,5
+H0209,Central Inn 209,Barcelona,Spain,apartment,2,8.7,4.9,50.77,no,yes,yes,3,yes,20
+H0210,City Rooms 210,Budapest,Hungary,hotel,4,8.2,3.8,128.16,no,no,yes,2,yes,10
+H0211,Smart Inn 211,Paris,France,apartment,2,7.9,1.9,134.66,yes,no,yes,4,yes,20
+H0212,Central Stay 212,Berlin,Germany,hotel,4,9.5,1.8,57.98,no,yes,yes,2,yes,15
+H0213,Royal Residence 213,Prague,Czechia,hotel,2,8.4,5.1,186.26,yes,no,yes,1,no,0
+H0214,City Residence 214,Krakow,Poland,guesthouse,2,7.6,5.3,79.4,no,yes,yes,4,yes,5
+H0215,Royal Hotel 215,Paris,France,hostel,5,7.8,5.8,89.98,yes,no,yes,3,yes,20
+H0216,Central Rooms 216,Krakow,Poland,guesthouse,4,7.7,1.1,192.98,yes,no,yes,4,yes,5
+H0217,Smart Stay 217,Rome,Italy,hostel,3,8.9,4.2,91.94,no,no,yes,4,yes,15
+H0218,City Lodge 218,Paris,France,apartment,2,8,3.3,78.24,no,no,yes,4,yes,5
+H0219,Canal Hotel 219,Krakow,Poland,apartment,2,8.8,2.3,162.39,no,yes,yes,3,yes,15
+H0220,City Residence 220,Paris,France,guesthouse,5,7.5,2.8,87.28,yes,yes,yes,3,yes,15
+H0221,Central Hotel 221,Barcelona,Spain,guesthouse,5,7.5,5.6,112.29,yes,no,yes,1,yes,15
+H0222,Royal Residence 222,Prague,Czechia,apartment,2,8.4,4.5,156.62,no,no,yes,4,yes,5
+H0223,Canal Lodge 223,Prague,Czechia,apartment,2,8.5,5.7,215.52,no,no,yes,1,yes,20
+H0224,Royal Inn 224,Gdansk,Poland,apartment,3,7.8,0.5,119.84,yes,no,yes,2,yes,20
+H0225,Royal Hotel 225,Prague,Czechia,hotel,4,7.7,5.1,127.84,no,no,yes,2,yes,20
+H0226,Riverside Residence 226,Krakow,Poland,hotel,5,8.5,0.5,113.98,yes,no,yes,1,yes,5
+H0227,Old Town Rooms 227,Paris,France,guesthouse,2,8,1.7,128.45,yes,yes,yes,3,yes,20
+H0228,Canal Stay 228,Paris,France,hostel,4,7.5,0.7,200.23,no,yes,yes,1,yes,5
+H0229,Green Inn 229,Gdansk,Poland,hostel,3,8.5,1.5,182.22,no,yes,yes,1,yes,15
+H0230,City Hotel 230,Amsterdam,Netherlands,guesthouse,2,7.1,4.8,67.04,yes,yes,yes,2,yes,5
+H0231,Royal Lodge 231,Prague,Czechia,hostel,5,9.6,2.2,77.09,yes,no,yes,4,yes,20
+H0232,Smart Inn 232,Prague,Czechia,hostel,4,8.8,2,67.58,no,no,yes,4,yes,20
+H0233,Grand Inn 233,Prague,Czechia,hostel,4,7.6,2.4,177.87,no,yes,yes,3,yes,15
+H0234,Smart Stay 234,Berlin,Germany,guesthouse,2,7.3,0.6,112.44,yes,no,yes,3,yes,10
+H0235,Green Hotel 235,Prague,Czechia,hostel,2,8.6,3.6,114.06,yes,yes,yes,3,no,0
+H0236,Smart Inn 236,Amsterdam,Netherlands,apartment,3,7.4,1.6,105.52,yes,no,yes,4,no,0
+H0237,Riverside Hotel 237,Paris,France,hotel,5,9.6,3.4,153.47,no,no,yes,4,yes,15
+H0238,City Inn 238,Warsaw,Poland,hostel,2,8.9,1.4,107.82,no,yes,yes,3,yes,10
+H0239,Old Town Lodge 239,Amsterdam,Netherlands,hotel,3,9.6,3.3,127.95,no,no,yes,4,yes,15
+H0240,Green Inn 240,Budapest,Hungary,apartment,2,8.9,4.7,200.73,yes,no,yes,3,yes,15
+H0241,Canal Lodge 241,Vienna,Austria,guesthouse,5,9,2.4,122.68,yes,yes,yes,3,yes,15
+H0242,Green Rooms 242,Munich,Germany,hotel,2,9.3,2.9,148,yes,no,yes,1,yes,20
+H0243,Smart Lodge 243,Gdansk,Poland,apartment,5,9.2,1.9,102.44,yes,yes,yes,1,yes,15
+H0244,Smart Hotel 244,Krakow,Poland,hotel,4,7.3,2.9,123.78,yes,yes,yes,3,yes,5
+H0245,Grand Hotel 245,Krakow,Poland,apartment,2,9.2,4.7,193.53,no,yes,yes,1,yes,20
+H0246,Green Lodge 246,Munich,Germany,guesthouse,2,8.8,1.6,132.03,yes,yes,yes,4,yes,20
+H0247,City Lodge 247,Vienna,Austria,apartment,3,7.9,1.2,187.13,no,yes,yes,3,no,0
+H0248,Old Town Rooms 248,Berlin,Germany,hostel,2,9.2,1.2,173.19,no,yes,yes,4,yes,5
+H0249,Royal Residence 249,Amsterdam,Netherlands,apartment,5,8.6,3.5,208.45,yes,yes,yes,1,yes,20
+H0250,Smart Inn 250,Amsterdam,Netherlands,hotel,3,7.4,5.3,157.88,yes,yes,yes,1,no,0
+H0251,City Stay 251,Budapest,Hungary,guesthouse,4,7.3,2.7,202.2,no,yes,yes,1,yes,10
+H0252,Canal Lodge 252,Rome,Italy,apartment,3,7.1,0.4,193.64,yes,no,yes,2,yes,5
+H0253,Grand Lodge 253,Munich,Germany,hotel,3,7.5,4.5,175.46,yes,yes,yes,2,yes,5
+H0254,Canal Hotel 254,Budapest,Hungary,guesthouse,5,7.8,3.6,174.83,no,yes,yes,4,no,0
+H0255,Royal Inn 255,Vienna,Austria,guesthouse,5,8.9,4.9,148.56,no,yes,yes,2,no,0
+H0256,Riverside Inn 256,Warsaw,Poland,hotel,4,7.8,3.8,218.42,no,yes,yes,3,yes,20
+H0257,Old Town Residence 257,Berlin,Germany,hotel,5,7.2,4.2,77.72,no,no,yes,1,yes,20
+H0258,Green Stay 258,Budapest,Hungary,guesthouse,2,8,2.7,44.8,yes,no,yes,2,yes,5
+H0259,Smart Residence 259,Berlin,Germany,guesthouse,2,8.9,5.6,80.45,no,yes,yes,3,no,0
+H0260,Riverside Rooms 260,Vienna,Austria,hostel,5,9.1,3.5,212.21,no,yes,yes,2,yes,20
+H0261,Central Hotel 261,Amsterdam,Netherlands,apartment,2,9.2,1.2,84.97,no,no,yes,3,yes,5
+H0262,City Hotel 262,Krakow,Poland,hostel,4,9.5,5.9,101.75,yes,yes,yes,2,no,0
+H0263,Royal Residence 263,Amsterdam,Netherlands,hotel,3,7.2,5.9,156.71,yes,no,yes,1,yes,5
+H0264,Green Residence 264,Prague,Czechia,guesthouse,3,8.9,1.4,142.47,yes,yes,yes,1,no,0
+H0265,Green Stay 265,Amsterdam,Netherlands,guesthouse,2,8,4.6,135.04,yes,no,yes,2,yes,15
+H0266,City Residence 266,Berlin,Germany,hostel,4,8.7,4.2,128.98,no,no,yes,3,yes,5
+H0267,Old Town Lodge 267,Vienna,Austria,guesthouse,4,7.8,1.3,101.62,no,yes,yes,2,no,0
+H0268,Old Town Rooms 268,Budapest,Hungary,hostel,2,8.9,0.7,113.67,yes,yes,yes,4,no,0
+H0269,Royal Residence 269,Berlin,Germany,hotel,3,7.4,0.2,51.01,no,yes,yes,1,yes,20
+H0270,Old Town Inn 270,Warsaw,Poland,apartment,5,8.7,4.6,76.76,no,yes,yes,2,no,0
+H0271,Grand Stay 271,Barcelona,Spain,hostel,2,8.5,3.6,182.5,no,no,yes,1,no,0
+H0272,Canal Rooms 272,Vienna,Austria,apartment,4,9.2,2.5,200.41,yes,no,yes,3,yes,5
+H0273,Smart Residence 273,Rome,Italy,guesthouse,5,9,1.6,55.61,yes,yes,yes,3,yes,10
+H0274,Grand Lodge 274,Munich,Germany,guesthouse,5,7.7,0.4,135.29,yes,no,yes,4,yes,10
+H0275,Canal Inn 275,Gdansk,Poland,apartment,2,7.2,0.3,147.87,no,no,yes,2,yes,20
+H0276,Old Town Hotel 276,Rome,Italy,guesthouse,4,9,3,189.82,yes,no,yes,2,yes,15
+H0277,Green Stay 277,Amsterdam,Netherlands,hostel,2,7.5,4.4,184.1,no,no,yes,4,yes,20
+H0278,Smart Hotel 278,Warsaw,Poland,hostel,5,8.3,3.8,160.28,yes,no,yes,2,yes,10
+H0279,Riverside Lodge 279,Gdansk,Poland,hostel,2,7.6,4.9,127.84,no,no,yes,3,yes,10
+H0280,Royal Inn 280,Prague,Czechia,guesthouse,2,9.5,1.4,66.25,yes,no,yes,1,yes,10
+H0281,Green Hotel 281,Paris,France,guesthouse,3,8.8,0.6,66.54,yes,yes,yes,3,no,0
+H0282,City Residence 282,Paris,France,hotel,4,9.5,4.5,49.31,no,no,yes,4,yes,20
+H0283,Old Town Lodge 283,Warsaw,Poland,hostel,2,7.5,5.5,123.77,yes,no,yes,4,yes,5
+H0284,Royal Rooms 284,Barcelona,Spain,hostel,3,7.5,1.7,162.8,no,no,yes,4,yes,20
+H0285,City Residence 285,Prague,Czechia,guesthouse,5,8.7,5.9,71.13,yes,no,yes,3,yes,15
+H0286,Riverside Hotel 286,Prague,Czechia,apartment,3,7.5,1.9,54.99,no,yes,yes,2,yes,5
+H0287,Smart Rooms 287,Budapest,Hungary,apartment,4,9.3,5.5,85.8,yes,no,yes,2,yes,15
+H0288,Riverside Inn 288,Rome,Italy,guesthouse,3,8.9,1.2,56.89,yes,yes,yes,2,yes,15
+H0289,City Rooms 289,Warsaw,Poland,guesthouse,2,9.1,5.6,148.81,no,yes,yes,1,yes,10
+H0290,Green Rooms 290,Amsterdam,Netherlands,hotel,3,7.1,1.1,168.46,no,no,yes,2,no,0
+H0291,Old Town Inn 291,Paris,France,hotel,4,9.1,4.8,69.78,yes,no,yes,1,no,0
+H0292,Royal Residence 292,Barcelona,Spain,apartment,2,9.6,0.8,213.5,yes,yes,yes,4,no,0
+H0293,Smart Hotel 293,Warsaw,Poland,apartment,5,7.1,3.3,80.14,no,no,yes,1,yes,15
+H0294,Central Hotel 294,Paris,France,apartment,2,7.6,2.6,52.77,no,no,yes,3,yes,5
+H0295,Riverside Stay 295,Gdansk,Poland,hotel,3,7.1,3.4,178.66,no,no,yes,4,yes,20
+H0296,Grand Hotel 296,Vienna,Austria,hostel,3,8,2.3,101.98,yes,no,yes,3,yes,5
+H0297,Grand Residence 297,Munich,Germany,hotel,4,8.6,4.2,185.59,no,no,yes,2,no,0
+H0298,Smart Stay 298,Rome,Italy,hotel,3,8.3,3.7,66.73,no,yes,yes,1,yes,10
+H0299,Royal Residence 299,Berlin,Germany,guesthouse,3,8.7,4.4,76.11,no,yes,yes,2,no,0
+H0300,Royal Stay 300,Berlin,Germany,hostel,3,7.5,0.7,173.05,no,no,yes,1,yes,15
+H0301,Canal Residence 301,Vienna,Austria,hotel,2,7,1,75.17,no,yes,yes,4,yes,20
+H0302,Grand Residence 302,Budapest,Hungary,guesthouse,4,8.2,4,104.15,no,yes,yes,2,no,0
+H0303,Smart Rooms 303,Berlin,Germany,apartment,5,7.9,2.6,135.48,yes,no,yes,2,yes,5
+H0304,Grand Stay 304,Munich,Germany,hotel,5,8.4,2.9,210.15,yes,yes,yes,4,yes,5
+H0305,Green Rooms 305,Munich,Germany,guesthouse,5,8.3,2.1,204.35,no,no,yes,2,yes,20
+H0306,Grand Stay 306,Rome,Italy,guesthouse,3,8,0.7,202.35,no,no,yes,3,yes,15
+H0307,Smart Residence 307,Barcelona,Spain,guesthouse,4,8.4,3.8,114.79,no,no,yes,2,yes,5
+H0308,Canal Lodge 308,Krakow,Poland,hotel,3,8.7,1.7,51.41,no,no,yes,2,yes,5
+H0309,Grand Rooms 309,Berlin,Germany,hostel,2,8.5,0.8,124.85,no,yes,yes,2,yes,20
+H0310,Central Residence 310,Paris,France,guesthouse,2,8.1,0.9,50.63,no,no,yes,3,yes,20
+H0311,Canal Stay 311,Rome,Italy,hostel,5,7.6,3.1,186.76,no,yes,yes,2,yes,10
+H0312,Canal Residence 312,Amsterdam,Netherlands,guesthouse,4,7.4,2.7,190.12,no,no,yes,2,yes,20
+H0313,City Inn 313,Vienna,Austria,hostel,5,7,5.2,127.37,yes,no,yes,1,no,0
+H0314,Green Inn 314,Gdansk,Poland,guesthouse,2,8.5,2.7,60.31,no,no,yes,1,yes,15
+H0315,Royal Rooms 315,Gdansk,Poland,apartment,3,7.2,4.9,136.7,no,no,yes,1,no,0
+H0316,Old Town Hotel 316,Budapest,Hungary,apartment,5,8,0.5,214.38,no,no,yes,2,yes,20
+H0317,Royal Rooms 317,Budapest,Hungary,guesthouse,3,9.1,0.3,158.4,no,yes,yes,4,yes,10
+H0318,Canal Lodge 318,Barcelona,Spain,guesthouse,5,7.4,5.2,177.26,yes,no,yes,2,yes,20
+H0319,City Hotel 319,Prague,Czechia,hostel,4,8.8,4.5,57.58,yes,no,yes,1,yes,20
+H0320,Canal Rooms 320,Prague,Czechia,apartment,4,7.3,3.8,72.59,yes,no,yes,3,no,0
+H0321,Central Rooms 321,Prague,Czechia,apartment,5,8.7,5.7,217.56,no,yes,yes,2,no,0
+H0322,City Lodge 322,Vienna,Austria,guesthouse,5,8.8,4.1,97.52,yes,no,yes,4,no,0
+H0323,Grand Hotel 323,Berlin,Germany,apartment,2,9.2,0.3,128.41,no,no,yes,4,no,0
+H0324,Canal Hotel 324,Prague,Czechia,hotel,3,7.2,4.5,151.83,no,no,yes,4,yes,20
+H0325,Green Inn 325,Amsterdam,Netherlands,guesthouse,2,8.2,5.4,91.6,no,no,yes,1,no,0
+H0326,Green Residence 326,Rome,Italy,hotel,4,8.4,5.1,49.14,yes,yes,yes,2,no,0
+H0327,City Inn 327,Gdansk,Poland,apartment,4,9.6,3,87.73,no,yes,yes,2,yes,15
+H0328,Grand Inn 328,Krakow,Poland,hotel,4,8.8,2.9,65.58,yes,yes,yes,3,no,0
+H0329,Riverside Residence 329,Krakow,Poland,hotel,4,7.3,2.5,191.03,yes,no,yes,2,yes,5
+H0330,Canal Lodge 330,Rome,Italy,hostel,3,9.6,4.4,111.32,no,no,yes,2,yes,10
+H0331,Royal Residence 331,Munich,Germany,guesthouse,5,7.1,3.5,151.66,yes,no,yes,2,no,0
+H0332,Old Town Residence 332,Budapest,Hungary,hostel,3,7.1,2.5,113.14,yes,no,yes,2,yes,5
+H0333,Royal Lodge 333,Gdansk,Poland,hostel,4,9.3,2.7,167.67,no,no,yes,3,yes,10
+H0334,Royal Rooms 334,Rome,Italy,hostel,3,7.9,4.2,69.03,no,yes,yes,4,yes,5
+H0335,Riverside Stay 335,Rome,Italy,apartment,2,8.4,3.8,185.43,no,yes,yes,4,no,0
+H0336,Old Town Hotel 336,Munich,Germany,guesthouse,2,8.6,5.5,113.14,no,yes,yes,2,yes,15
+H0337,Green Stay 337,Prague,Czechia,hostel,3,8.3,1.4,123.37,no,yes,yes,2,yes,15
+H0338,Green Rooms 338,Barcelona,Spain,guesthouse,4,8,2.8,41.32,yes,no,yes,2,yes,5
+H0339,Smart Hotel 339,Amsterdam,Netherlands,guesthouse,5,7.8,0.3,61.69,yes,no,yes,3,no,0
+H0340,City Stay 340,Rome,Italy,hostel,3,7.2,0.4,42.87,no,yes,yes,1,yes,10
+H0341,Riverside Rooms 341,Rome,Italy,hotel,2,7.5,5.8,109.43,yes,yes,yes,3,yes,10
+H0342,Green Inn 342,Warsaw,Poland,hotel,5,7.9,4.7,145.35,yes,yes,yes,1,yes,5
+H0343,Green Inn 343,Paris,France,apartment,2,7.2,3.8,60.98,yes,yes,yes,3,yes,5
+H0344,Central Rooms 344,Prague,Czechia,guesthouse,5,8.4,1.6,104.92,yes,yes,yes,1,no,0
+H0345,Green Residence 345,Gdansk,Poland,apartment,4,7.5,2.8,216.27,yes,yes,yes,1,yes,20
+H0346,Green Stay 346,Warsaw,Poland,hotel,2,9,2.6,42.79,no,no,yes,4,yes,5
+H0347,Old Town Hotel 347,Rome,Italy,apartment,3,8.1,1.1,192.7,yes,yes,yes,4,no,0
+H0348,City Rooms 348,Berlin,Germany,hotel,4,9,4.8,131.1,no,no,yes,4,yes,20
+H0349,Green Rooms 349,Barcelona,Spain,apartment,2,8.6,1.9,154.43,yes,no,yes,3,yes,20
+H0350,City Inn 350,Krakow,Poland,guesthouse,3,7.9,4,140.51,no,no,yes,1,yes,5
+H0351,Canal Inn 351,Budapest,Hungary,apartment,3,8.1,5.5,128.34,no,no,yes,3,no,0
+H0352,Central Lodge 352,Berlin,Germany,hostel,5,7.5,2.6,112.69,yes,no,yes,4,yes,5
+H0353,Grand Hotel 353,Gdansk,Poland,apartment,4,7.5,3.4,83.22,yes,no,yes,1,yes,5
+H0354,Old Town Stay 354,Prague,Czechia,hotel,5,7.8,4.7,159.89,yes,yes,yes,4,yes,20
+H0355,Grand Rooms 355,Munich,Germany,apartment,3,9.1,3.2,55.81,no,no,yes,4,yes,15
+H0356,Grand Inn 356,Warsaw,Poland,hotel,4,7.7,5.5,165.53,no,no,yes,1,yes,20
+H0357,Green Rooms 357,Berlin,Germany,hostel,2,9.3,2.6,68.54,yes,yes,yes,3,no,0
+H0358,Grand Lodge 358,Prague,Czechia,apartment,4,8,3.2,194.62,yes,no,yes,1,yes,10
+H0359,Green Inn 359,Paris,France,guesthouse,2,7.1,1.8,159.51,no,yes,yes,2,yes,20
+H0360,Green Stay 360,Vienna,Austria,apartment,5,7.1,2.4,194.15,no,yes,yes,4,yes,15
+H0361,Smart Stay 361,Paris,France,apartment,3,9,5.3,144.81,yes,yes,yes,4,yes,20
+H0362,Smart Rooms 362,Amsterdam,Netherlands,guesthouse,3,8.6,4,128.42,yes,no,yes,4,yes,10
+H0363,Central Lodge 363,Rome,Italy,guesthouse,3,8.9,5.6,210,no,yes,yes,1,yes,10
+H0364,Green Hotel 364,Gdansk,Poland,apartment,5,7.4,2.9,110.59,yes,no,yes,4,no,0
+H0365,Grand Lodge 365,Munich,Germany,apartment,3,7.5,4,68.84,yes,yes,yes,4,yes,15
+H0366,Canal Hotel 366,Warsaw,Poland,hotel,3,7.3,5.1,89.43,yes,no,yes,2,yes,20
+H0367,Central Stay 367,Paris,France,hostel,5,7.1,2,88.32,no,yes,yes,1,yes,15
+H0368,Old Town Inn 368,Barcelona,Spain,apartment,2,9.2,5.7,190.71,yes,yes,yes,1,no,0
+H0369,Grand Lodge 369,Vienna,Austria,hotel,3,7.4,3.8,215.55,no,yes,yes,4,yes,15
+H0370,Grand Hotel 370,Vienna,Austria,guesthouse,4,8.9,5.3,189.44,no,yes,yes,1,no,0
+H0371,City Lodge 371,Barcelona,Spain,hostel,3,8.3,1.1,47.75,yes,yes,yes,3,yes,5
+H0372,Canal Inn 372,Rome,Italy,apartment,2,8.9,5.7,135.25,yes,yes,yes,4,yes,15
+H0373,Riverside Hotel 373,Prague,Czechia,guesthouse,3,7.7,5.2,208.7,no,no,yes,4,yes,20
+H0374,Royal Hotel 374,Prague,Czechia,apartment,5,8.9,5.4,206.62,no,no,yes,3,yes,10
+H0375,Royal Hotel 375,Budapest,Hungary,guesthouse,3,8.2,0.5,42.84,yes,yes,yes,3,yes,20
+H0376,Canal Lodge 376,Prague,Czechia,guesthouse,4,8.8,0.9,52.34,yes,yes,yes,2,yes,5
+H0377,Canal Inn 377,Budapest,Hungary,hostel,3,8.5,5.5,82.34,yes,no,yes,2,yes,15
+H0378,Green Lodge 378,Rome,Italy,guesthouse,5,9.3,4,105.41,yes,yes,yes,4,yes,15
+H0379,Old Town Residence 379,Budapest,Hungary,guesthouse,2,7.4,3.3,143.23,yes,no,yes,4,no,0
+H0380,Smart Stay 380,Prague,Czechia,guesthouse,5,7.4,2.7,67.7,yes,no,yes,2,yes,20
+H0381,Green Hotel 381,Amsterdam,Netherlands,hostel,5,8.2,2.8,182.26,no,no,yes,4,no,0
+H0382,Riverside Lodge 382,Warsaw,Poland,guesthouse,3,8.1,5,161.03,yes,no,yes,4,yes,10
+H0383,Smart Inn 383,Amsterdam,Netherlands,guesthouse,5,7.5,3.9,84.2,yes,no,yes,4,yes,10
+H0384,Old Town Lodge 384,Krakow,Poland,hostel,3,9.2,2.7,186.71,yes,yes,yes,3,yes,15
+H0385,Green Residence 385,Rome,Italy,guesthouse,4,9.6,0.8,62.37,no,yes,yes,4,yes,5
+H0386,Central Stay 386,Paris,France,hostel,4,8.8,1.5,83.27,no,no,yes,2,yes,5
+H0387,Grand Stay 387,Warsaw,Poland,hotel,5,9.4,2.3,92.44,yes,no,yes,1,no,0
+H0388,Old Town Rooms 388,Rome,Italy,apartment,4,7.3,5.9,97.45,no,yes,yes,1,no,0
+H0389,Green Stay 389,Berlin,Germany,hostel,4,8.5,0.5,113.65,no,yes,yes,1,yes,15
+H0390,Canal Hotel 390,Barcelona,Spain,apartment,4,7.8,3.6,176.5,no,no,yes,3,yes,15
+H0391,Smart Residence 391,Paris,France,hostel,2,7.7,5.1,49.42,yes,no,yes,4,yes,15
+H0392,Central Inn 392,Warsaw,Poland,hostel,3,8.7,4.2,51.54,yes,no,yes,1,yes,5
+H0393,Royal Stay 393,Munich,Germany,guesthouse,4,7.6,4.4,90.75,yes,no,yes,3,no,0
+H0394,Old Town Rooms 394,Munich,Germany,hostel,2,8.7,1.8,141.57,yes,no,yes,2,yes,5
+H0395,Riverside Lodge 395,Gdansk,Poland,hostel,4,9,1.6,122.79,no,no,yes,4,yes,15
+H0396,Smart Rooms 396,Prague,Czechia,apartment,4,9.3,1.4,52.91,no,yes,yes,1,no,0
+H0397,Riverside Residence 397,Barcelona,Spain,hotel,2,9.5,1,141.68,yes,no,yes,3,no,0
+H0398,City Residence 398,Munich,Germany,guesthouse,5,8.5,4,117.8,no,yes,yes,2,yes,10
+H0399,Royal Hotel 399,Paris,France,hotel,2,7.1,3.9,112.15,no,no,yes,1,yes,20
+H0400,Grand Rooms 400,Berlin,Germany,hotel,2,8.1,3.1,54.72,yes,no,yes,3,yes,15
+H0401,Green Lodge 401,Gdansk,Poland,hostel,4,9.4,4.7,129.76,yes,yes,yes,3,no,0
+H0402,City Hotel 402,Munich,Germany,hotel,2,7.8,4.8,218.06,yes,yes,yes,1,no,0
+H0403,Royal Inn 403,Berlin,Germany,hostel,2,7.1,5,167.66,no,no,yes,2,yes,10
+H0404,Green Hotel 404,Rome,Italy,apartment,4,7.1,5.5,122.27,no,yes,yes,3,yes,15
+H0405,Canal Residence 405,Berlin,Germany,hotel,3,8.8,0.9,84.89,yes,no,yes,1,yes,10
+H0406,City Stay 406,Krakow,Poland,hostel,5,8.7,5.3,81.42,yes,yes,yes,1,yes,15
+H0407,City Residence 407,Gdansk,Poland,apartment,4,9.2,4.7,109.44,no,yes,yes,3,yes,20
+H0408,Royal Hotel 408,Budapest,Hungary,guesthouse,3,7.3,1.3,51.85,yes,yes,yes,4,yes,10
+H0409,Riverside Stay 409,Amsterdam,Netherlands,apartment,2,8.7,2.4,207.48,no,no,yes,2,yes,10
+H0410,Royal Inn 410,Krakow,Poland,hotel,4,7.7,2.5,41.72,no,yes,yes,1,no,0
+H0411,Riverside Lodge 411,Barcelona,Spain,hotel,2,8.6,5.8,206.74,yes,no,yes,1,yes,10
+H0412,Central Lodge 412,Warsaw,Poland,hostel,2,8.2,4.3,69.1,yes,yes,yes,3,no,0
+H0413,Royal Inn 413,Barcelona,Spain,apartment,4,8,1.6,57.7,yes,no,yes,3,yes,5
+H0414,City Stay 414,Prague,Czechia,apartment,5,8,4.8,201.46,no,no,yes,3,no,0
+H0415,Grand Rooms 415,Amsterdam,Netherlands,guesthouse,2,8,2,212.49,no,no,yes,4,no,0
+H0416,Riverside Inn 416,Prague,Czechia,apartment,2,9.1,0.8,88.74,no,yes,yes,2,yes,20
+H0417,City Hotel 417,Vienna,Austria,hotel,3,8.7,4.3,120.34,no,no,yes,3,yes,20
+H0418,Canal Lodge 418,Gdansk,Poland,hotel,2,7.7,0.4,135.36,no,yes,yes,1,yes,20
+H0419,Central Residence 419,Vienna,Austria,hostel,5,7.6,1.9,203.62,yes,no,yes,3,yes,5
+H0420,Old Town Rooms 420,Gdansk,Poland,hostel,3,7,2.7,214.26,no,yes,yes,3,yes,20
+H0421,Central Rooms 421,Barcelona,Spain,hotel,3,7.2,4.8,124.27,no,no,yes,3,yes,15
+H0422,Grand Residence 422,Munich,Germany,apartment,4,8.7,1.7,127.39,no,yes,yes,1,no,0
+H0423,Royal Hotel 423,Paris,France,apartment,4,9.3,3.8,125.54,no,no,yes,1,yes,15
+H0424,Riverside Hotel 424,Budapest,Hungary,hotel,2,7.8,3.3,154.3,yes,yes,yes,1,yes,5
+H0425,Grand Residence 425,Paris,France,hotel,2,7.1,0.6,177.66,no,yes,yes,2,yes,5
+H0426,Riverside Stay 426,Berlin,Germany,hotel,5,9.1,3.4,107.47,yes,no,yes,3,yes,5
+H0427,Central Residence 427,Krakow,Poland,hostel,4,9.1,4.8,66.39,no,yes,yes,1,no,0
+H0428,Canal Residence 428,Warsaw,Poland,guesthouse,3,8.5,0.2,174.24,yes,yes,yes,2,yes,10
+H0429,City Rooms 429,Barcelona,Spain,hostel,2,8.9,3.1,54.43,no,no,yes,3,yes,5
+H0430,Grand Rooms 430,Krakow,Poland,hotel,2,7.5,4.9,115.69,no,yes,yes,3,no,0
+H0431,Old Town Residence 431,Barcelona,Spain,guesthouse,5,9.1,4.6,66.13,no,no,yes,2,yes,10
+H0432,Central Rooms 432,Krakow,Poland,apartment,3,7.3,5.2,55.7,yes,no,yes,3,yes,5
+H0433,Riverside Stay 433,Prague,Czechia,apartment,5,8,2.2,189.42,yes,no,yes,4,yes,20
+H0434,Old Town Stay 434,Warsaw,Poland,hotel,3,8.5,4.2,184.78,yes,no,yes,3,no,0
+H0435,Riverside Stay 435,Berlin,Germany,hostel,4,9,1.8,150.67,no,no,yes,3,no,0
+H0436,Royal Stay 436,Warsaw,Poland,guesthouse,2,8.3,2.8,210.65,no,no,yes,3,no,0
+H0437,Riverside Rooms 437,Vienna,Austria,guesthouse,3,7.5,5.5,126.93,yes,no,yes,4,yes,15
+H0438,City Inn 438,Berlin,Germany,hotel,3,8.3,5,187.95,no,no,yes,3,yes,20
+H0439,Green Hotel 439,Barcelona,Spain,hotel,2,7.2,2.3,148.66,no,yes,yes,4,yes,15
+H0440,Riverside Inn 440,Berlin,Germany,hotel,2,8.9,4.7,106.62,no,no,yes,3,yes,15
+H0441,Old Town Hotel 441,Berlin,Germany,apartment,2,8,0.3,172.35,yes,yes,yes,1,no,0
+H0442,Green Stay 442,Budapest,Hungary,apartment,4,8.2,1,131.47,yes,no,yes,3,no,0
+H0443,City Hotel 443,Prague,Czechia,guesthouse,4,7.3,4.9,76.67,no,no,yes,3,yes,10
+H0444,Grand Stay 444,Paris,France,guesthouse,4,8.7,5.2,182.07,no,yes,yes,3,yes,15
+H0445,Royal Rooms 445,Barcelona,Spain,hotel,2,7.5,3.9,194.02,no,no,yes,2,yes,10
+H0446,City Rooms 446,Krakow,Poland,apartment,4,8.5,2.7,127.43,no,no,yes,1,yes,20
+H0447,Green Hotel 447,Rome,Italy,hotel,2,7.9,2.6,63.04,yes,no,yes,2,yes,15
+H0448,Riverside Lodge 448,Gdansk,Poland,apartment,5,7.6,4.4,202.16,yes,yes,yes,2,yes,10
+H0449,Old Town Stay 449,Prague,Czechia,guesthouse,5,7.6,2,190.3,no,no,yes,4,yes,10
+H0450,Riverside Lodge 450,Prague,Czechia,apartment,4,9.2,5.6,117.38,no,yes,yes,4,yes,15
+H0451,Royal Rooms 451,Paris,France,apartment,4,8.3,3.6,68.7,no,yes,yes,1,no,0
+H0452,Royal Residence 452,Amsterdam,Netherlands,guesthouse,5,9.4,3.2,151.35,no,no,yes,2,yes,5
+H0453,Royal Residence 453,Warsaw,Poland,apartment,3,8.1,4,189.87,no,yes,yes,1,yes,5
+H0454,City Rooms 454,Paris,France,apartment,2,8.5,4,42.18,no,yes,yes,4,yes,20
+H0455,Canal Residence 455,Krakow,Poland,hotel,5,9,4.9,165.91,yes,yes,yes,1,yes,5
+H0456,City Hotel 456,Krakow,Poland,hostel,3,8.4,3,205.67,no,no,yes,1,yes,20
+H0457,Old Town Lodge 457,Rome,Italy,hotel,5,9.4,5.7,168.76,no,yes,yes,4,yes,20
+H0458,Riverside Inn 458,Barcelona,Spain,apartment,5,7.5,2.1,41.66,no,yes,yes,2,yes,20
+H0459,Old Town Residence 459,Berlin,Germany,guesthouse,4,8.6,3.2,85.79,no,yes,yes,3,yes,10
+H0460,Old Town Hotel 460,Krakow,Poland,hostel,2,7.6,5.1,202.53,no,yes,yes,1,yes,5
+H0461,Smart Lodge 461,Rome,Italy,guesthouse,4,8,1.5,101.02,yes,no,yes,4,no,0
+H0462,Smart Rooms 462,Warsaw,Poland,hostel,4,8.9,1.9,169.13,yes,no,yes,1,no,0
+H0463,Canal Hotel 463,Prague,Czechia,apartment,3,8.5,0.5,128.95,no,no,yes,4,yes,5
+H0464,Riverside Rooms 464,Munich,Germany,hostel,5,9,3.9,76.72,yes,no,yes,4,no,0
+H0465,Royal Rooms 465,Munich,Germany,hostel,2,9.1,3.9,67.28,yes,no,yes,4,yes,15
+H0466,Canal Residence 466,Berlin,Germany,hotel,3,7.4,5.4,210.83,yes,no,yes,4,yes,15
+H0467,Royal Lodge 467,Vienna,Austria,apartment,2,7.5,5.7,202.51,yes,yes,yes,1,yes,5
+H0468,City Stay 468,Berlin,Germany,hotel,3,8.7,1.4,75.6,yes,no,yes,2,yes,10
+H0469,Canal Residence 469,Amsterdam,Netherlands,hotel,5,9,3.2,193.42,yes,no,yes,2,yes,15
+H0470,Canal Stay 470,Vienna,Austria,apartment,4,7.8,1.3,89.77,yes,no,yes,2,yes,10
+H0471,Green Hotel 471,Berlin,Germany,hostel,4,8,5.6,219.33,yes,no,yes,3,yes,10
+H0472,Old Town Rooms 472,Berlin,Germany,apartment,5,9.4,2.9,59.83,no,yes,yes,4,yes,20
+H0473,Grand Hotel 473,Vienna,Austria,hostel,4,8.2,3.8,72.01,no,yes,yes,3,no,0
+H0474,Riverside Rooms 474,Warsaw,Poland,hotel,3,8.3,0.3,109.28,yes,yes,yes,3,yes,20
+H0475,Green Lodge 475,Budapest,Hungary,guesthouse,3,8.8,1,72.6,yes,yes,yes,3,yes,5
+H0476,Smart Stay 476,Amsterdam,Netherlands,hostel,5,9.5,4.6,44.2,no,yes,yes,4,no,0
+H0477,Grand Inn 477,Vienna,Austria,apartment,4,8,4.9,202.89,no,yes,yes,1,no,0
+H0478,Green Rooms 478,Gdansk,Poland,hostel,2,7.2,4.2,59.72,no,yes,yes,3,no,0
+H0479,Royal Rooms 479,Krakow,Poland,guesthouse,5,8.7,1.4,86.2,no,yes,yes,3,yes,10
+H0480,Smart Residence 480,Munich,Germany,hotel,3,9.1,3.9,97.1,yes,yes,yes,2,yes,5
+H0481,City Hotel 481,Paris,France,hotel,4,8.4,3.9,94.03,yes,no,yes,1,no,0
+H0482,Royal Residence 482,Rome,Italy,apartment,4,7.4,3.5,90.03,no,yes,yes,3,yes,15
+H0483,Royal Rooms 483,Paris,France,hostel,4,8.1,3.7,139.68,no,yes,yes,1,no,0
+H0484,Canal Hotel 484,Rome,Italy,hostel,3,7.1,4.6,186.54,yes,no,yes,4,yes,20
+H0485,Old Town Lodge 485,Budapest,Hungary,guesthouse,2,9.2,2.5,139.34,no,yes,yes,2,yes,5
+H0486,Green Hotel 486,Vienna,Austria,guesthouse,2,9,2.9,218.25,yes,no,yes,3,yes,5
+H0487,Green Rooms 487,Krakow,Poland,guesthouse,2,8.2,0.7,97.76,no,yes,yes,2,yes,5
+H0488,Royal Inn 488,Warsaw,Poland,hotel,3,8.6,1.9,65.33,yes,yes,yes,1,no,0
+H0489,Riverside Inn 489,Paris,France,hostel,4,9,2.8,155.6,yes,yes,yes,4,yes,10
+H0490,Riverside Inn 490,Rome,Italy,guesthouse,2,9.1,4.4,195.4,yes,yes,yes,4,no,0
+H0491,Canal Hotel 491,Warsaw,Poland,guesthouse,5,9.3,2.9,185.09,no,no,yes,3,yes,20
+H0492,Central Hotel 492,Vienna,Austria,hostel,2,8.1,0.4,89.9,yes,no,yes,1,yes,20
+H0493,Grand Stay 493,Prague,Czechia,guesthouse,3,9.4,1.1,95.51,no,no,yes,4,yes,15
+H0494,Old Town Inn 494,Amsterdam,Netherlands,guesthouse,5,8.9,3.8,40.24,yes,no,yes,1,no,0
+H0495,Central Stay 495,Barcelona,Spain,guesthouse,4,8.5,0.6,182.83,yes,no,yes,1,yes,5
+H0496,Grand Stay 496,Krakow,Poland,hostel,4,9.6,1.1,142.26,no,yes,yes,4,no,0
+H0497,City Inn 497,Warsaw,Poland,guesthouse,3,8.9,1.7,102.59,no,yes,yes,4,yes,5
+H0498,Green Rooms 498,Rome,Italy,hostel,4,8.3,5.4,198.13,yes,yes,yes,4,yes,15
+H0499,Old Town Inn 499,Budapest,Hungary,apartment,5,7.1,1,79.32,no,no,yes,4,yes,20
+H0500,Old Town Hotel 500,Krakow,Poland,guesthouse,3,8.2,0.6,209.39,no,yes,yes,4,yes,10
+H0501,Central Residence 501,Berlin,Germany,guesthouse,2,7.2,3.7,184.44,yes,no,yes,1,no,0
+H0502,Green Hotel 502,Krakow,Poland,hostel,4,7.2,0.5,125.71,yes,no,yes,3,yes,15
+H0503,Central Stay 503,Rome,Italy,apartment,2,7.8,3.3,127.58,no,no,yes,4,yes,15
+H0504,City Hotel 504,Gdansk,Poland,apartment,3,7.9,3.6,194.11,yes,yes,yes,1,no,0
+H0505,Green Inn 505,Berlin,Germany,guesthouse,5,7.2,4,182.84,no,no,yes,4,yes,20
+H0506,Old Town Stay 506,Berlin,Germany,guesthouse,4,9,1.2,108.68,yes,no,yes,1,yes,10
+H0507,Riverside Lodge 507,Barcelona,Spain,hostel,5,7.5,0.7,55.05,yes,yes,yes,3,no,0
+H0508,Green Lodge 508,Prague,Czechia,hostel,5,8.4,5,189.45,yes,no,yes,3,yes,15
+H0509,Grand Inn 509,Warsaw,Poland,hotel,5,7.4,3.4,172.82,no,no,yes,3,no,0
+H0510,Old Town Rooms 510,Krakow,Poland,hostel,5,9.6,2,148.9,no,yes,yes,4,yes,5
+H0511,Old Town Stay 511,Rome,Italy,hostel,5,8.8,5.1,58.16,yes,yes,yes,3,no,0
+H0512,Canal Residence 512,Vienna,Austria,hostel,2,7.7,0.5,190.3,yes,no,yes,1,yes,15
+H0513,Central Lodge 513,Vienna,Austria,apartment,5,9.4,5.8,183.18,no,yes,yes,4,yes,20
+H0514,Smart Inn 514,Berlin,Germany,apartment,4,7.9,3.2,117.47,yes,no,yes,4,yes,10
+H0515,Canal Stay 515,Vienna,Austria,guesthouse,2,9.3,2.2,202.46,no,yes,yes,2,no,0
+H0516,Riverside Hotel 516,Prague,Czechia,apartment,4,8.4,3.8,106.03,yes,no,yes,3,no,0
+H0517,Canal Lodge 517,Berlin,Germany,hotel,4,8.8,1.6,55.21,yes,no,yes,1,no,0
+H0518,Central Rooms 518,Gdansk,Poland,hostel,3,8.4,2.8,188.2,no,yes,yes,1,no,0
+H0519,Central Inn 519,Paris,France,apartment,2,8.7,5.2,64.21,no,no,yes,1,yes,15
+H0520,Smart Stay 520,Berlin,Germany,apartment,4,8.1,5.1,117.79,no,yes,yes,1,yes,10
+H0521,City Lodge 521,Warsaw,Poland,hotel,4,7.2,4,87.04,no,yes,yes,2,no,0
+H0522,Smart Rooms 522,Rome,Italy,apartment,3,9.5,4.8,199.07,no,no,yes,1,yes,20
+H0523,Grand Residence 523,Gdansk,Poland,hostel,4,7.5,0.4,92.06,yes,no,yes,2,no,0
+H0524,Old Town Rooms 524,Krakow,Poland,guesthouse,5,7.5,5.9,180.5,yes,yes,yes,4,yes,15
+H0525,Smart Hotel 525,Berlin,Germany,hostel,3,7.9,2.5,152.32,no,no,yes,2,yes,10
+H0526,Grand Residence 526,Budapest,Hungary,hotel,2,8.9,5.6,162.53,yes,yes,yes,2,yes,20
+H0527,Grand Hotel 527,Prague,Czechia,guesthouse,5,8.6,0.9,111.42,no,yes,yes,3,yes,10
+H0528,Smart Rooms 528,Gdansk,Poland,guesthouse,2,7.7,3.9,190.26,yes,yes,yes,2,no,0
+H0529,Central Lodge 529,Vienna,Austria,apartment,3,7.4,2.6,45.44,yes,no,yes,3,yes,5
+H0530,Grand Hotel 530,Gdansk,Poland,hostel,2,7.4,1.8,95.04,yes,no,yes,3,no,0
+H0531,Central Rooms 531,Krakow,Poland,hotel,5,9.5,3.1,195.38,yes,no,yes,2,no,0
+H0532,Royal Residence 532,Paris,France,guesthouse,3,9.2,1.9,165.36,yes,yes,yes,2,no,0
+H0533,Royal Residence 533,Rome,Italy,hotel,3,7.4,5.1,89.32,yes,no,yes,3,yes,5
+H0534,Central Stay 534,Barcelona,Spain,hostel,3,8.5,4.2,168.91,no,yes,yes,2,yes,5
+H0535,Old Town Lodge 535,Munich,Germany,guesthouse,3,8.7,4.8,85.57,yes,no,yes,1,yes,15
+H0536,Old Town Lodge 536,Krakow,Poland,guesthouse,4,8.4,5.1,101.45,no,yes,yes,4,yes,5
+H0537,Grand Lodge 537,Amsterdam,Netherlands,apartment,4,8.4,2.8,84.53,no,yes,yes,3,yes,5
+H0538,Canal Residence 538,Vienna,Austria,guesthouse,2,8.8,5.2,143.26,no,yes,yes,2,yes,5
+H0539,Green Hotel 539,Rome,Italy,guesthouse,3,7.4,1.6,207.49,yes,yes,yes,1,no,0
+H0540,Old Town Lodge 540,Amsterdam,Netherlands,hotel,5,8.3,5.1,189.65,yes,yes,yes,3,no,0
+H0541,Old Town Lodge 541,Krakow,Poland,hostel,2,9.3,4.3,44.6,yes,yes,yes,3,yes,15
+H0542,Royal Stay 542,Amsterdam,Netherlands,apartment,2,9.3,5.3,83.23,yes,yes,yes,2,yes,20
+H0543,Royal Rooms 543,Gdansk,Poland,apartment,2,7.4,2.4,206.54,yes,yes,yes,3,yes,10
+H0544,Riverside Residence 544,Gdansk,Poland,guesthouse,2,8.9,2.4,173.33,no,yes,yes,2,no,0
+H0545,Smart Inn 545,Rome,Italy,guesthouse,2,7.2,2.5,62.87,no,yes,yes,4,yes,20
+H0546,Canal Residence 546,Paris,France,hostel,2,8.4,5.7,58.58,yes,no,yes,4,yes,10
+H0547,Central Stay 547,Rome,Italy,hostel,4,8.1,1.8,200.25,no,no,yes,1,yes,5
+H0548,Grand Stay 548,Krakow,Poland,hostel,4,9,3,212.56,yes,yes,yes,3,no,0
+H0549,Old Town Lodge 549,Rome,Italy,hostel,3,7.8,5.4,158.91,no,no,yes,2,yes,10
+H0550,City Hotel 550,Amsterdam,Netherlands,apartment,5,9.5,0.3,130.91,no,yes,yes,1,yes,5
+H0551,Royal Stay 551,Krakow,Poland,guesthouse,3,8.8,4.9,151.78,no,no,yes,4,no,0
+H0552,Smart Lodge 552,Amsterdam,Netherlands,guesthouse,5,8.5,4.8,44.69,yes,no,yes,1,yes,20
+H0553,Royal Rooms 553,Budapest,Hungary,hostel,3,8.7,5.1,51.68,yes,yes,yes,3,yes,20
+H0554,Riverside Lodge 554,Amsterdam,Netherlands,hotel,5,8.1,3.6,176.13,no,yes,yes,3,yes,15
+H0555,Royal Inn 555,Prague,Czechia,hotel,3,8.7,5.7,87.41,no,no,yes,3,yes,15
+H0556,Grand Inn 556,Paris,France,hostel,5,8.8,2.6,158.48,no,yes,yes,3,no,0
+H0557,Central Stay 557,Barcelona,Spain,guesthouse,4,8,0.7,179.2,no,yes,yes,4,yes,15
+H0558,Riverside Rooms 558,Paris,France,hotel,5,8.5,1.7,60.84,no,yes,yes,4,yes,10
+H0559,Canal Rooms 559,Barcelona,Spain,apartment,5,8,0.7,159.26,no,no,yes,4,yes,20
+H0560,Royal Hotel 560,Rome,Italy,guesthouse,4,7.4,5.5,102.45,no,no,yes,3,yes,15
+H0561,Grand Residence 561,Amsterdam,Netherlands,hotel,3,8.7,5.5,190.13,no,yes,yes,4,yes,5
+H0562,Royal Rooms 562,Prague,Czechia,apartment,4,7.5,1.4,114.7,yes,no,yes,1,yes,5
+H0563,Green Hotel 563,Paris,France,apartment,5,8.8,0.3,163.13,yes,yes,yes,4,no,0
+H0564,City Residence 564,Rome,Italy,apartment,4,8.1,2.4,190.34,yes,yes,yes,4,no,0
+H0565,Grand Residence 565,Budapest,Hungary,hotel,4,9.4,2.1,195.07,no,no,yes,4,no,0
+H0566,Smart Stay 566,Munich,Germany,hotel,3,7.7,0.3,215.84,yes,yes,yes,1,yes,10
+H0567,Smart Lodge 567,Amsterdam,Netherlands,hotel,2,8.2,4.1,156.89,yes,no,yes,4,yes,5
+H0568,Riverside Lodge 568,Barcelona,Spain,hostel,2,7.1,0.7,206.83,yes,yes,yes,2,yes,10
+H0569,Royal Residence 569,Paris,France,hostel,2,7.8,1.1,70.33,no,no,yes,1,yes,20
+H0570,Royal Rooms 570,Barcelona,Spain,hostel,3,7.7,4.4,162.45,yes,no,yes,3,yes,20
+H0571,Central Lodge 571,Paris,France,hotel,5,7,0.7,172.88,no,yes,yes,1,yes,20
+H0572,Grand Rooms 572,Berlin,Germany,apartment,4,8.5,3.6,206.88,yes,yes,yes,1,no,0
+H0573,Smart Rooms 573,Barcelona,Spain,guesthouse,4,7.7,5.8,159.9,no,no,yes,3,no,0
+H0574,Riverside Inn 574,Vienna,Austria,guesthouse,3,9.4,2.5,81.3,yes,yes,yes,2,no,0
+H0575,Grand Hotel 575,Krakow,Poland,apartment,3,8.2,0.5,108.86,yes,yes,yes,1,yes,15
+H0576,Central Residence 576,Gdansk,Poland,hotel,3,8.9,3.6,133.12,yes,no,yes,4,yes,5
+H0577,Smart Stay 577,Amsterdam,Netherlands,guesthouse,4,8.9,0.7,84.39,yes,no,yes,1,yes,15
+H0578,Smart Inn 578,Paris,France,hotel,5,8.7,3.9,164.91,no,no,yes,1,no,0
+H0579,Royal Lodge 579,Prague,Czechia,hostel,4,7.1,1.9,138.83,no,no,yes,3,yes,5
+H0580,Green Lodge 580,Rome,Italy,hotel,2,7.8,0.7,127.9,yes,no,yes,4,yes,20
+H0581,Grand Rooms 581,Krakow,Poland,apartment,4,7.8,1.2,97.01,yes,yes,yes,1,yes,15
+H0582,City Inn 582,Paris,France,guesthouse,5,7.6,0.8,79,yes,yes,yes,3,no,0
+H0583,City Inn 583,Munich,Germany,hotel,4,7.1,4.8,42.48,no,no,yes,1,no,0
+H0584,Smart Stay 584,Krakow,Poland,apartment,5,8.3,5.5,86.63,no,yes,yes,3,yes,20
+H0585,Grand Residence 585,Barcelona,Spain,apartment,3,7.1,1.9,206.16,yes,no,yes,3,yes,5
+H0586,Royal Inn 586,Rome,Italy,hotel,5,8.3,5.8,104.64,no,yes,yes,2,yes,5
+H0587,Canal Stay 587,Berlin,Germany,guesthouse,2,8.3,4.3,209.39,no,yes,yes,4,no,0
+H0588,Grand Lodge 588,Munich,Germany,hotel,4,8.3,2.4,99.5,yes,yes,yes,3,yes,15
+H0589,Green Inn 589,Prague,Czechia,apartment,4,8.6,5.4,54.17,no,yes,yes,2,no,0
+H0590,Grand Stay 590,Vienna,Austria,hotel,5,7.2,3.1,169.67,no,yes,yes,1,no,0
+H0591,Grand Lodge 591,Amsterdam,Netherlands,hotel,5,7,3.4,42.42,yes,yes,yes,2,yes,15
+H0592,Grand Inn 592,Munich,Germany,guesthouse,4,8.6,1.2,86.63,no,yes,yes,1,yes,20
+H0593,Royal Inn 593,Munich,Germany,apartment,5,8.3,1,93.75,yes,no,yes,4,no,0
+H0594,Central Hotel 594,Vienna,Austria,guesthouse,3,9.3,4.8,112.1,yes,no,yes,1,yes,10
+H0595,Green Inn 595,Amsterdam,Netherlands,apartment,5,9.4,3.2,186.88,yes,yes,yes,1,yes,5
+H0596,Central Inn 596,Munich,Germany,hotel,2,8.6,1.3,171.82,yes,no,yes,1,yes,10
+H0597,Canal Residence 597,Vienna,Austria,hotel,4,7.2,4.3,179.34,no,no,yes,2,yes,5
+H0598,City Inn 598,Prague,Czechia,apartment,4,9.5,5.5,128.21,yes,yes,yes,2,no,0
+H0599,Green Hotel 599,Vienna,Austria,apartment,2,7.9,2.1,82.51,no,yes,yes,4,no,0
+H0600,Riverside Hotel 600,Warsaw,Poland,apartment,2,8,5.1,179.62,no,no,yes,3,no,0
+H0601,Old Town Lodge 601,Amsterdam,Netherlands,hostel,3,9.4,4.1,82.87,yes,yes,yes,1,yes,15
+H0602,City Lodge 602,Krakow,Poland,apartment,5,9.3,4.9,182.32,no,no,yes,3,no,0
+H0603,Central Rooms 603,Warsaw,Poland,hostel,3,7.8,1,197.15,yes,yes,yes,3,yes,20
+H0604,Green Rooms 604,Munich,Germany,apartment,2,8.9,3,162.89,no,no,yes,3,no,0
+H0605,City Inn 605,Krakow,Poland,hostel,4,9.4,1.6,116.27,yes,yes,yes,4,yes,15
+H0606,Central Stay 606,Paris,France,hotel,4,8.6,2.3,132.46,yes,no,yes,2,yes,5
+H0607,Riverside Residence 607,Gdansk,Poland,hotel,2,8.5,4,91.79,no,no,yes,3,yes,15
+H0608,Grand Residence 608,Vienna,Austria,apartment,4,8.3,3.5,59.25,no,no,yes,2,yes,20
+H0609,Royal Hotel 609,Krakow,Poland,guesthouse,3,8.1,4.3,45.66,no,yes,yes,1,no,0
+H0610,Riverside Inn 610,Barcelona,Spain,guesthouse,5,9.1,1.6,79.44,yes,no,yes,1,yes,10
+H0611,Royal Residence 611,Warsaw,Poland,hostel,5,7.1,3.4,112.88,no,no,yes,1,yes,20
+H0612,Riverside Inn 612,Berlin,Germany,hotel,5,8,4.7,98.2,no,yes,yes,1,yes,10
+H0613,Canal Lodge 613,Warsaw,Poland,apartment,4,7.8,4.9,155.66,yes,no,yes,3,yes,5
+H0614,Central Rooms 614,Munich,Germany,hotel,2,9.3,2,152.21,yes,yes,yes,3,no,0
+H0615,Canal Stay 615,Warsaw,Poland,hotel,4,8.6,4.8,41.58,yes,no,yes,2,no,0
+H0616,Old Town Inn 616,Budapest,Hungary,guesthouse,5,7.7,4.5,52.85,yes,yes,yes,1,yes,20
+H0617,Central Stay 617,Budapest,Hungary,apartment,3,8.7,3,178.01,no,yes,yes,4,yes,15
+H0618,Grand Residence 618,Budapest,Hungary,apartment,5,9.3,1.3,116.88,yes,yes,yes,4,yes,10
+H0619,Green Hotel 619,Berlin,Germany,apartment,2,7,4.5,200.54,no,no,yes,3,yes,10
+H0620,Smart Inn 620,Barcelona,Spain,apartment,3,8.2,2.4,103.41,no,no,yes,2,yes,20
+H0621,Grand Rooms 621,Vienna,Austria,guesthouse,3,9.3,2.5,43.93,no,yes,yes,2,yes,20
+H0622,Canal Residence 622,Gdansk,Poland,apartment,4,8.3,4.6,101.54,no,yes,yes,4,no,0
+H0623,Central Lodge 623,Paris,France,hostel,2,7.7,3.4,217.95,yes,no,yes,4,yes,15
+H0624,Riverside Lodge 624,Paris,France,hotel,2,7.3,3.4,81.04,no,no,yes,3,yes,15
+H0625,Riverside Residence 625,Paris,France,hotel,2,9.2,3.9,124.85,yes,yes,yes,3,no,0
+H0626,Green Inn 626,Barcelona,Spain,hotel,2,8.3,0.8,204.04,yes,no,yes,4,yes,10
+H0627,Central Residence 627,Barcelona,Spain,apartment,5,7.2,2.7,76.42,no,no,yes,2,yes,20
+H0628,Canal Hotel 628,Vienna,Austria,guesthouse,4,8.4,4.6,81.78,no,no,yes,2,yes,5
+H0629,Royal Hotel 629,Amsterdam,Netherlands,hostel,5,7.3,1.6,81.99,yes,yes,yes,3,no,0
+H0630,Royal Rooms 630,Krakow,Poland,hostel,2,8.5,2.2,186.33,no,no,yes,2,no,0
+H0631,City Stay 631,Warsaw,Poland,apartment,3,9.2,1.5,101.52,yes,yes,yes,1,yes,15
+H0632,Grand Residence 632,Berlin,Germany,hotel,5,8.3,2.8,42.71,no,no,yes,2,no,0
+H0633,Smart Lodge 633,Rome,Italy,hostel,5,7.9,1.5,63.35,no,yes,yes,4,yes,15
+H0634,Grand Rooms 634,Vienna,Austria,apartment,4,9.3,5.8,165.26,no,yes,yes,4,yes,15
+H0635,Riverside Stay 635,Gdansk,Poland,apartment,2,8.4,1.3,141.41,no,no,yes,4,yes,10
+H0636,Central Hotel 636,Barcelona,Spain,guesthouse,3,8.2,1.2,190.86,no,yes,yes,4,yes,10
+H0637,Smart Residence 637,Warsaw,Poland,apartment,5,7.4,5.5,82.82,yes,yes,yes,1,yes,20
+H0638,Grand Stay 638,Krakow,Poland,guesthouse,4,8.1,1.9,135.85,no,no,yes,2,yes,10
+H0639,Smart Hotel 639,Budapest,Hungary,apartment,5,9.5,0.7,118,yes,no,yes,3,yes,20
+H0640,City Inn 640,Munich,Germany,guesthouse,3,8.7,4.7,193.29,yes,no,yes,1,no,0
+H0641,Central Hotel 641,Budapest,Hungary,hostel,2,7.1,1.2,186.92,no,yes,yes,3,yes,20
+H0642,Central Residence 642,Amsterdam,Netherlands,guesthouse,2,8.8,4.2,102.29,yes,yes,yes,4,no,0
+H0643,City Inn 643,Barcelona,Spain,hostel,2,8.8,2.9,81.26,no,no,yes,3,no,0
+H0644,Old Town Inn 644,Paris,France,apartment,2,7.8,5.2,106.25,yes,yes,yes,2,yes,15
+H0645,Riverside Inn 645,Gdansk,Poland,hotel,2,7.5,1.3,85.56,no,yes,yes,3,yes,15
+H0646,Grand Hotel 646,Munich,Germany,hotel,4,7.4,5.2,215.07,no,no,yes,4,yes,5
+H0647,Green Hotel 647,Gdansk,Poland,hotel,2,8.3,4.6,184.76,yes,yes,yes,2,yes,20
+H0648,Central Lodge 648,Berlin,Germany,hotel,4,8.3,5.2,133.63,no,no,yes,4,no,0
+H0649,Central Rooms 649,Krakow,Poland,hotel,3,7.4,2.6,121.94,yes,yes,yes,1,yes,15
+H0650,Canal Inn 650,Barcelona,Spain,guesthouse,4,7.2,4.4,178.7,no,no,yes,2,yes,15
+H0651,Smart Inn 651,Budapest,Hungary,apartment,5,8.7,3.6,205.83,no,yes,yes,4,no,0
+H0652,Old Town Residence 652,Warsaw,Poland,apartment,3,9.3,5.1,171.86,no,yes,yes,3,yes,10
+H0653,City Residence 653,Krakow,Poland,hotel,5,7.5,3.9,183.32,no,yes,yes,2,yes,20
+H0654,Central Residence 654,Paris,France,hostel,2,8.7,2.1,174.26,no,no,yes,1,yes,15
+H0655,Smart Rooms 655,Munich,Germany,guesthouse,2,9.1,2.1,83.94,no,yes,yes,1,yes,20
+H0656,Green Residence 656,Warsaw,Poland,guesthouse,2,7.6,5.8,206.53,yes,no,yes,4,yes,15
+H0657,Canal Residence 657,Barcelona,Spain,hotel,4,9.3,5.4,202.5,no,no,yes,4,yes,20
+H0658,Riverside Hotel 658,Munich,Germany,guesthouse,5,9.5,3.5,48.3,yes,yes,yes,4,no,0
+H0659,Smart Hotel 659,Amsterdam,Netherlands,hotel,5,8,2.9,190.94,yes,no,yes,2,yes,5
+H0660,Old Town Lodge 660,Warsaw,Poland,hotel,2,9.4,1.7,81.58,yes,no,yes,1,yes,20
+H0661,Royal Hotel 661,Munich,Germany,hotel,4,9,4.4,153.5,yes,yes,yes,4,yes,15
+H0662,Central Lodge 662,Krakow,Poland,hostel,3,8.5,4.3,151.06,no,no,yes,4,yes,20
+H0663,Grand Residence 663,Barcelona,Spain,hotel,4,9.4,0.6,52.68,yes,no,yes,3,yes,10
+H0664,Royal Residence 664,Budapest,Hungary,apartment,4,8.1,5.2,145,yes,no,yes,3,yes,5
+H0665,Smart Stay 665,Amsterdam,Netherlands,guesthouse,5,9.3,2.3,120.34,no,yes,yes,2,yes,10
+H0666,Royal Rooms 666,Rome,Italy,apartment,3,7.7,0.6,155.42,no,yes,yes,2,yes,5
+H0667,Smart Rooms 667,Barcelona,Spain,guesthouse,2,7.4,4.7,69.99,no,no,yes,2,yes,10
+H0668,City Stay 668,Gdansk,Poland,guesthouse,2,8.9,5.7,152.65,yes,yes,yes,4,yes,15
+H0669,Central Residence 669,Berlin,Germany,hostel,4,8.4,5.9,69.87,yes,yes,yes,2,yes,20
+H0670,Royal Inn 670,Budapest,Hungary,guesthouse,3,8.7,3.5,211.38,yes,no,yes,3,yes,15
+H0671,Grand Hotel 671,Paris,France,guesthouse,5,8.7,3.7,144.18,yes,yes,yes,4,yes,5
+H0672,City Residence 672,Warsaw,Poland,guesthouse,5,9,1.9,191.19,yes,no,yes,1,yes,10
+H0673,City Rooms 673,Budapest,Hungary,hotel,3,7.7,5.4,80.47,yes,yes,yes,3,yes,15
+H0674,Riverside Residence 674,Paris,France,hotel,2,7.5,4.7,97.82,no,no,yes,1,no,0
+H0675,Grand Rooms 675,Paris,France,guesthouse,2,8.3,3.5,167.13,no,no,yes,3,yes,20
+H0676,Green Lodge 676,Paris,France,hotel,2,9.2,4.3,62.56,no,yes,yes,4,yes,15
+H0677,Central Hotel 677,Munich,Germany,apartment,2,8.3,5.3,160.21,yes,yes,yes,3,no,0
+H0678,Royal Inn 678,Krakow,Poland,hostel,2,8.9,2.6,65.94,no,yes,yes,2,yes,5
+H0679,Green Residence 679,Barcelona,Spain,hotel,2,7.9,3.2,100.98,no,yes,yes,1,no,0
+H0680,Canal Residence 680,Budapest,Hungary,hotel,4,7.5,2.6,70.68,no,yes,yes,4,yes,20
+H0681,Riverside Residence 681,Gdansk,Poland,guesthouse,3,9.2,3.7,111.29,yes,yes,yes,2,yes,5
+H0682,Green Stay 682,Paris,France,hostel,3,9,0.8,73.17,yes,yes,yes,2,yes,15
+H0683,City Residence 683,Krakow,Poland,hotel,2,7.2,4.9,161.27,yes,yes,yes,2,yes,5
+H0684,Canal Residence 684,Vienna,Austria,hostel,5,7.1,4.1,173.86,yes,yes,yes,2,yes,20
+H0685,Grand Lodge 685,Rome,Italy,guesthouse,5,8.2,4.3,184.32,yes,no,yes,3,no,0
+H0686,Smart Lodge 686,Berlin,Germany,hotel,4,9.5,3.7,47.19,no,no,yes,1,no,0
+H0687,Central Stay 687,Krakow,Poland,hostel,5,8,5.5,186.65,no,yes,yes,1,no,0
+H0688,Canal Residence 688,Barcelona,Spain,guesthouse,4,9.5,4.9,107.24,no,no,yes,3,no,0
+H0689,Old Town Rooms 689,Munich,Germany,apartment,2,9.5,1.6,159.95,yes,yes,yes,1,no,0
+H0690,City Rooms 690,Rome,Italy,hotel,3,8.4,0.7,85.71,no,yes,yes,4,no,0
+H0691,Green Residence 691,Paris,France,hostel,4,9.3,2.5,158,yes,no,yes,2,no,0
+H0692,City Lodge 692,Budapest,Hungary,apartment,2,7.2,1.9,49.12,yes,no,yes,3,no,0
+H0693,Central Residence 693,Krakow,Poland,apartment,4,9.5,0.7,176.16,yes,no,yes,4,yes,15
+H0694,Old Town Inn 694,Rome,Italy,guesthouse,5,9.2,4.8,88.68,no,yes,yes,1,yes,5
+H0695,Smart Lodge 695,Barcelona,Spain,hostel,3,7.6,5.9,169.72,yes,yes,yes,4,no,0
+H0696,Royal Lodge 696,Munich,Germany,hotel,3,8.3,1.8,181.09,no,yes,yes,1,yes,10
+H0697,Green Rooms 697,Rome,Italy,hotel,2,9.5,2.3,180.65,no,no,yes,4,yes,10
+H0698,Royal Inn 698,Berlin,Germany,guesthouse,3,7.8,3.5,128.71,no,yes,yes,4,yes,15
+H0699,Royal Stay 699,Krakow,Poland,apartment,5,7.5,2.4,170.56,no,no,yes,3,yes,5
+H0700,Smart Residence 700,Gdansk,Poland,hostel,5,7.5,4.4,41.56,yes,no,yes,3,yes,5
+H0701,Riverside Stay 701,Prague,Czechia,apartment,3,9.5,3.3,130.05,no,yes,yes,1,yes,20
+H0702,Royal Rooms 702,Rome,Italy,hotel,3,8,4.6,109.94,yes,no,yes,4,yes,5
+H0703,Old Town Hotel 703,Amsterdam,Netherlands,hostel,4,7.9,5.5,49.93,no,yes,yes,3,no,0
+H0704,Riverside Hotel 704,Munich,Germany,apartment,2,7.9,5.4,211.4,no,yes,yes,4,no,0
+H0705,Old Town Rooms 705,Prague,Czechia,guesthouse,5,9.4,3.2,59.73,yes,no,yes,3,yes,5
+H0706,Royal Inn 706,Warsaw,Poland,hostel,4,8.5,5,114.55,yes,yes,yes,4,yes,10
+H0707,Canal Lodge 707,Berlin,Germany,hotel,5,8.4,3.3,111.48,yes,no,yes,4,yes,20
+H0708,Riverside Inn 708,Rome,Italy,hotel,5,9.5,4.6,113.92,yes,no,yes,1,no,0
+H0709,Old Town Rooms 709,Paris,France,hotel,4,7.2,4.2,75.65,yes,no,yes,3,yes,5
+H0710,Riverside Residence 710,Amsterdam,Netherlands,hotel,4,8.4,3.5,108.26,yes,yes,yes,2,no,0
+H0711,Old Town Lodge 711,Berlin,Germany,guesthouse,5,9.4,4.2,192.73,no,yes,yes,3,no,0
+H0712,Grand Lodge 712,Paris,France,hostel,5,9.6,5.9,136.54,yes,no,yes,4,yes,10
+H0713,Old Town Lodge 713,Amsterdam,Netherlands,hostel,4,8.7,0.8,59.96,yes,yes,yes,1,yes,10
+H0714,City Stay 714,Amsterdam,Netherlands,hotel,5,9,4.3,158.96,no,yes,yes,4,yes,15
+H0715,Old Town Inn 715,Vienna,Austria,guesthouse,2,7.3,3.2,70.16,yes,no,yes,1,yes,15
+H0716,Smart Inn 716,Barcelona,Spain,guesthouse,4,7.5,5,112.6,no,yes,yes,4,yes,5
+H0717,Old Town Inn 717,Berlin,Germany,guesthouse,2,8.3,2.7,186.78,yes,yes,yes,1,no,0
+H0718,Central Residence 718,Berlin,Germany,hotel,3,7.3,2.6,151.5,no,yes,yes,3,yes,10
+H0719,Smart Rooms 719,Munich,Germany,apartment,3,9.3,4.1,149.64,yes,no,yes,1,yes,5
+H0720,Royal Stay 720,Munich,Germany,apartment,5,9.4,0.6,217.33,no,no,yes,1,yes,5
+H0721,Riverside Lodge 721,Gdansk,Poland,apartment,2,8.5,4.1,215.42,yes,no,yes,1,no,0
+H0722,City Rooms 722,Rome,Italy,apartment,2,7.4,5.8,102.42,no,no,yes,2,no,0
+H0723,Canal Lodge 723,Budapest,Hungary,apartment,2,8.6,4.7,91.55,yes,yes,yes,4,no,0
+H0724,Canal Residence 724,Rome,Italy,hotel,4,7.7,3.5,210.77,no,yes,yes,4,no,0
+H0725,City Residence 725,Prague,Czechia,hostel,2,7.6,3.3,69.13,no,yes,yes,4,no,0
+H0726,Central Stay 726,Gdansk,Poland,apartment,2,8.4,2.2,100.83,no,yes,yes,4,yes,10
+H0727,Canal Residence 727,Paris,France,apartment,4,8,4.1,128.5,no,yes,yes,4,no,0
+H0728,Riverside Hotel 728,Rome,Italy,guesthouse,5,7.6,2.2,144.11,yes,no,yes,1,no,0
+H0729,Grand Rooms 729,Krakow,Poland,guesthouse,5,8.9,0.4,45.44,yes,no,yes,3,no,0
+H0730,Grand Residence 730,Rome,Italy,hotel,5,8,4.3,207.01,yes,yes,yes,1,yes,15
+H0731,Old Town Rooms 731,Vienna,Austria,hostel,4,8,1.9,53.57,no,no,yes,4,yes,10
+H0732,Grand Hotel 732,Amsterdam,Netherlands,hostel,2,8.1,5.6,78.36,yes,yes,yes,3,yes,5
+H0733,Riverside Stay 733,Krakow,Poland,guesthouse,3,8.8,4.5,159.03,no,no,yes,3,yes,20
+H0734,Royal Lodge 734,Rome,Italy,apartment,5,7.8,1.8,41.9,yes,yes,yes,2,yes,20
+H0735,Canal Rooms 735,Gdansk,Poland,hostel,4,9.4,0.6,47.76,no,yes,yes,4,no,0
+H0736,Smart Inn 736,Warsaw,Poland,hostel,5,8,3.2,205.8,yes,no,yes,1,yes,10
+H0737,Green Hotel 737,Budapest,Hungary,hostel,4,7.9,2.7,162.35,yes,no,yes,3,yes,5
+H0738,Grand Residence 738,Krakow,Poland,hostel,3,8.7,4.6,123.06,no,yes,yes,4,yes,20
+H0739,Grand Lodge 739,Vienna,Austria,hotel,3,9.4,4.5,172.56,no,yes,yes,2,no,0
+H0740,Canal Hotel 740,Berlin,Germany,hostel,3,9.3,4.5,78.24,no,no,yes,1,yes,20
+H0741,Old Town Inn 741,Munich,Germany,guesthouse,2,7.6,1.7,211.59,no,no,yes,4,yes,10
+H0742,Royal Hotel 742,Budapest,Hungary,hotel,2,8,4.7,106.46,no,yes,yes,2,yes,5
+H0743,Green Rooms 743,Barcelona,Spain,guesthouse,3,7.3,5.7,158.15,yes,no,yes,1,yes,10
+H0744,Central Hotel 744,Barcelona,Spain,hotel,5,9,1.3,108.1,no,no,yes,4,no,0
+H0745,Canal Rooms 745,Amsterdam,Netherlands,guesthouse,3,8.4,0.8,187.88,yes,no,yes,3,yes,15
+H0746,Royal Inn 746,Gdansk,Poland,hostel,4,7.6,3.8,117.67,yes,yes,yes,1,yes,10
+H0747,Royal Rooms 747,Amsterdam,Netherlands,guesthouse,5,8.9,3.5,94.1,no,yes,yes,4,no,0
+H0748,Royal Hotel 748,Munich,Germany,hostel,3,7.2,0.4,105.25,yes,no,yes,4,yes,15
+H0749,Riverside Hotel 749,Rome,Italy,hostel,3,7.6,0.6,138.76,yes,no,yes,4,yes,10
+H0750,City Stay 750,Warsaw,Poland,apartment,5,8.1,5.2,142.75,yes,no,yes,4,no,0
+H0751,Smart Inn 751,Rome,Italy,hostel,4,7.2,5.5,178.87,yes,yes,yes,3,yes,10
+H0752,Green Stay 752,Munich,Germany,apartment,5,9.1,3.5,170.78,no,yes,yes,4,yes,10
+H0753,Old Town Lodge 753,Warsaw,Poland,hotel,2,9,4.9,177.77,no,yes,yes,4,yes,20
+H0754,Grand Lodge 754,Gdansk,Poland,guesthouse,3,8.4,4.6,214.62,no,yes,yes,2,yes,10
+H0755,Riverside Inn 755,Rome,Italy,hostel,4,9.3,1.9,203.38,yes,yes,yes,3,yes,5
+H0756,City Stay 756,Amsterdam,Netherlands,guesthouse,4,7.6,2.7,63.2,yes,yes,yes,3,yes,20
+H0757,Canal Stay 757,Vienna,Austria,hostel,4,7.5,2.3,194.85,no,yes,yes,4,yes,20
+H0758,Green Rooms 758,Rome,Italy,guesthouse,2,9.1,4.5,87.65,yes,no,yes,3,yes,20
+H0759,Old Town Inn 759,Warsaw,Poland,apartment,5,8.5,1.5,200.5,no,no,yes,2,no,0
+H0760,Old Town Rooms 760,Prague,Czechia,apartment,3,9.3,2.2,83.42,yes,yes,yes,1,yes,10
+H0761,Old Town Rooms 761,Warsaw,Poland,apartment,5,9.4,5.8,215.47,yes,yes,yes,4,yes,20
+H0762,Central Inn 762,Krakow,Poland,apartment,3,8.8,3.7,74.12,no,yes,yes,1,no,0
+H0763,Smart Hotel 763,Prague,Czechia,hostel,5,9.1,5.4,175.5,yes,no,yes,3,yes,15
+H0764,City Lodge 764,Amsterdam,Netherlands,hostel,5,9,4.6,186.47,no,yes,yes,3,yes,10
+H0765,Canal Rooms 765,Vienna,Austria,hotel,2,7.2,0.4,97.1,no,yes,yes,2,no,0
+H0766,Canal Stay 766,Paris,France,guesthouse,3,9.4,3.9,173.84,yes,yes,yes,3,yes,5
+H0767,Royal Lodge 767,Rome,Italy,hostel,4,8.6,5,122.51,yes,no,yes,2,yes,5
+H0768,Grand Stay 768,Gdansk,Poland,apartment,4,8.6,5,152.75,yes,no,yes,2,no,0
+H0769,Riverside Lodge 769,Rome,Italy,apartment,4,8.7,2,182.6,no,no,yes,4,yes,10
+H0770,Central Inn 770,Krakow,Poland,hostel,2,8.3,3.4,165.73,no,yes,yes,4,yes,20
+H0771,City Rooms 771,Paris,France,guesthouse,3,9.1,5.2,219,yes,no,yes,4,yes,10
+H0772,Riverside Rooms 772,Gdansk,Poland,hotel,3,7.9,3.6,178.98,no,yes,yes,4,yes,10
+H0773,Central Rooms 773,Gdansk,Poland,hostel,2,7.2,2.7,166.83,no,no,yes,4,no,0
+H0774,Smart Lodge 774,Berlin,Germany,guesthouse,4,8.1,4.3,76.82,no,yes,yes,4,no,0
+H0775,Riverside Stay 775,Munich,Germany,guesthouse,2,8.1,4.5,63,yes,yes,yes,3,yes,15
+H0776,Riverside Rooms 776,Warsaw,Poland,hotel,2,8,1.6,99.9,no,yes,yes,4,yes,5
+H0777,Old Town Stay 777,Rome,Italy,hostel,5,8.3,2.7,118.44,no,yes,yes,3,no,0
+H0778,Green Lodge 778,Warsaw,Poland,guesthouse,2,7.3,2.6,58.27,no,no,yes,1,yes,10
+H0779,Canal Rooms 779,Rome,Italy,hotel,4,8.8,3.7,165.34,yes,yes,yes,4,yes,5
+H0780,Smart Residence 780,Warsaw,Poland,hostel,2,7.4,0.3,64.51,no,yes,yes,3,yes,20
+H0781,Canal Residence 781,Munich,Germany,hostel,5,8.3,4.9,123.54,yes,no,yes,3,yes,5
+H0782,City Inn 782,Krakow,Poland,hostel,2,8.8,2.2,51.24,no,yes,yes,1,yes,20
+H0783,Royal Stay 783,Paris,France,apartment,2,7.4,5.4,157.47,no,no,yes,2,no,0
+H0784,Royal Inn 784,Amsterdam,Netherlands,hostel,2,9.3,2.5,106.38,no,yes,yes,4,yes,15
+H0785,Riverside Hotel 785,Warsaw,Poland,guesthouse,2,8.5,1.5,105.57,no,no,yes,3,yes,5
+H0786,Riverside Lodge 786,Amsterdam,Netherlands,hostel,3,7.4,1.5,85.38,yes,yes,yes,3,yes,20
+H0787,Smart Stay 787,Berlin,Germany,apartment,4,9.3,3.3,190.27,yes,no,yes,1,no,0
+H0788,Old Town Residence 788,Paris,France,hostel,2,9.1,2.7,85.15,no,no,yes,4,yes,10
+H0789,Riverside Stay 789,Berlin,Germany,guesthouse,3,8.1,1.4,105.67,no,yes,yes,4,yes,5
+H0790,Riverside Residence 790,Barcelona,Spain,guesthouse,4,9.4,2.4,62.45,no,yes,yes,4,yes,15
+H0791,Green Rooms 791,Gdansk,Poland,apartment,3,7.2,4.7,57.25,yes,no,yes,4,yes,10
+H0792,Central Residence 792,Munich,Germany,hostel,3,7.8,4.5,182.87,no,no,yes,3,yes,5
+H0793,Royal Lodge 793,Barcelona,Spain,apartment,3,8.4,5.2,75.69,no,yes,yes,3,yes,15
+H0794,Green Lodge 794,Barcelona,Spain,guesthouse,5,9.5,1.6,83.73,yes,yes,yes,3,yes,20
+H0795,Royal Hotel 795,Krakow,Poland,apartment,3,7.1,4.2,153.16,yes,yes,yes,4,yes,10
+H0796,Royal Lodge 796,Vienna,Austria,hotel,2,8.3,2.2,210.51,yes,yes,yes,4,no,0
+H0797,Smart Rooms 797,Gdansk,Poland,apartment,3,8,3.7,163.33,no,yes,yes,4,yes,15
+H0798,Central Stay 798,Rome,Italy,apartment,5,8.5,4,112.55,yes,yes,yes,2,yes,20
+H0799,Royal Inn 799,Gdansk,Poland,guesthouse,5,7.4,5.8,185.71,no,no,yes,2,no,0
+H0800,Green Stay 800,Munich,Germany,guesthouse,3,7.1,2.7,94.44,no,no,yes,4,yes,10
+H0801,Smart Residence 801,Barcelona,Spain,hotel,4,8.7,4,154.83,yes,yes,yes,2,yes,15
+H0802,City Stay 802,Amsterdam,Netherlands,guesthouse,3,7.4,1.8,151.18,yes,no,yes,3,yes,15
+H0803,Grand Stay 803,Berlin,Germany,hostel,5,9.3,2.4,102.19,no,no,yes,1,yes,10
+H0804,Old Town Rooms 804,Paris,France,hostel,2,8.6,5.5,148.97,yes,no,yes,1,no,0
+H0805,Smart Residence 805,Amsterdam,Netherlands,apartment,3,7.9,3.8,80.62,yes,no,yes,2,yes,20
+H0806,City Inn 806,Barcelona,Spain,guesthouse,2,8.9,0.3,75.34,no,yes,yes,1,yes,5
+H0807,Royal Inn 807,Prague,Czechia,guesthouse,4,7.6,0.8,52.99,no,no,yes,3,no,0
+H0808,City Rooms 808,Gdansk,Poland,guesthouse,5,8.4,5.2,133.91,yes,no,yes,3,no,0
+H0809,Royal Rooms 809,Amsterdam,Netherlands,hostel,5,8.5,3.6,144.09,yes,no,yes,3,yes,10
+H0810,City Lodge 810,Amsterdam,Netherlands,apartment,2,7.9,1.5,202.6,yes,yes,yes,1,yes,15
+H0811,Central Hotel 811,Warsaw,Poland,hotel,2,8.7,4.2,214.08,yes,no,yes,3,yes,5
+H0812,Riverside Inn 812,Munich,Germany,guesthouse,4,7.3,4.1,89.1,yes,yes,yes,2,no,0
+H0813,Riverside Stay 813,Gdansk,Poland,hotel,5,8.8,0.6,191.47,yes,yes,yes,3,yes,5
+H0814,Green Residence 814,Vienna,Austria,apartment,4,7.6,2.6,89.3,no,yes,yes,4,no,0
+H0815,Green Hotel 815,Warsaw,Poland,guesthouse,2,9.3,2.3,89.55,yes,yes,yes,2,yes,5
+H0816,Grand Hotel 816,Budapest,Hungary,hotel,5,7.9,5.2,200.11,yes,yes,yes,4,no,0
+H0817,Riverside Lodge 817,Paris,France,hotel,4,8.1,4.9,178.45,yes,no,yes,3,yes,15
+H0818,Old Town Rooms 818,Barcelona,Spain,guesthouse,4,8.5,5.9,104.15,yes,yes,yes,2,no,0
+H0819,Smart Hotel 819,Paris,France,hostel,4,9.1,5.8,182.2,yes,no,yes,4,yes,10
+H0820,City Hotel 820,Budapest,Hungary,apartment,4,7.5,2.2,215.07,no,no,yes,3,no,0
+H0821,Royal Lodge 821,Rome,Italy,hotel,4,9,2.1,205.52,no,yes,yes,1,no,0
+H0822,City Hotel 822,Krakow,Poland,hostel,3,9.5,3,161.83,yes,yes,yes,2,yes,5
+H0823,Grand Inn 823,Budapest,Hungary,apartment,2,8.8,3.7,50.92,yes,no,yes,4,no,0
+H0824,Green Hotel 824,Krakow,Poland,hotel,3,7.4,4.9,67.73,yes,no,yes,4,no,0
+H0825,Smart Hotel 825,Prague,Czechia,apartment,2,8.7,2.1,174.31,no,yes,yes,1,yes,10
+H0826,Central Residence 826,Budapest,Hungary,guesthouse,3,9.5,0.8,43.45,yes,yes,yes,1,yes,20
+H0827,Green Lodge 827,Paris,France,apartment,2,8.9,5.4,93.74,yes,yes,yes,3,yes,15
+H0828,City Residence 828,Gdansk,Poland,apartment,3,8.5,2.6,133.27,yes,no,yes,2,no,0
+H0829,Smart Hotel 829,Munich,Germany,apartment,5,9,4.9,163.98,no,no,yes,2,yes,20
+H0830,Smart Lodge 830,Munich,Germany,guesthouse,2,9.6,5.1,67.21,no,yes,yes,2,yes,5
+H0831,Grand Hotel 831,Warsaw,Poland,guesthouse,4,8.6,3,113.66,no,yes,yes,2,yes,15
+H0832,Royal Lodge 832,Budapest,Hungary,apartment,3,7.8,0.5,100.58,yes,no,yes,2,no,0
+H0833,Grand Lodge 833,Budapest,Hungary,guesthouse,3,8.5,3.8,192.45,no,no,yes,3,yes,15
+H0834,Smart Stay 834,Vienna,Austria,guesthouse,3,8.8,4.6,180.53,no,no,yes,4,yes,20
+H0835,Green Hotel 835,Krakow,Poland,guesthouse,2,8.5,1.6,198.32,no,no,yes,4,yes,20
+H0836,City Stay 836,Budapest,Hungary,apartment,3,7.1,0.4,123.4,yes,no,yes,4,yes,10
+H0837,Canal Stay 837,Warsaw,Poland,apartment,3,7.3,0.7,167.28,no,yes,yes,2,yes,15
+H0838,Green Inn 838,Berlin,Germany,guesthouse,4,8.3,3.5,89.35,no,yes,yes,3,yes,5
+H0839,Riverside Hotel 839,Berlin,Germany,guesthouse,4,8.1,1.9,102.11,no,yes,yes,3,no,0
+H0840,Smart Inn 840,Budapest,Hungary,guesthouse,4,9.5,5.6,120.79,no,no,yes,1,no,0
+H0841,Smart Inn 841,Rome,Italy,hostel,2,9,4.5,79.17,yes,no,yes,2,yes,10
+H0842,Green Inn 842,Berlin,Germany,apartment,4,8.8,0.3,142.31,yes,no,yes,3,yes,5
+H0843,Smart Hotel 843,Barcelona,Spain,guesthouse,2,8.7,0.9,214.31,no,no,yes,4,yes,10
+H0844,Smart Hotel 844,Berlin,Germany,apartment,3,7.3,1.2,50.1,no,yes,yes,4,yes,10
+H0845,Central Inn 845,Gdansk,Poland,guesthouse,4,8.2,3.7,152.51,yes,yes,yes,2,yes,15
+H0846,City Rooms 846,Amsterdam,Netherlands,apartment,5,7,2,134.49,yes,yes,yes,1,no,0
+H0847,Canal Lodge 847,Paris,France,hostel,3,9.1,2.9,83.15,yes,no,yes,3,no,0
+H0848,Riverside Rooms 848,Berlin,Germany,hotel,4,7.9,3.4,119.4,yes,yes,yes,2,yes,15
+H0849,Grand Lodge 849,Vienna,Austria,hostel,5,8,2,184.68,yes,yes,yes,4,yes,5
+H0850,Riverside Rooms 850,Amsterdam,Netherlands,hostel,2,8.3,3.5,212.38,no,yes,yes,2,no,0
+H0851,Canal Stay 851,Amsterdam,Netherlands,hostel,4,8.4,2.9,207.54,yes,yes,yes,1,yes,10
+H0852,Green Stay 852,Vienna,Austria,apartment,3,9.6,4.2,134.35,yes,yes,yes,3,no,0
+H0853,Grand Stay 853,Vienna,Austria,hostel,5,7.8,1.4,117.68,yes,no,yes,1,yes,20
+H0854,Royal Rooms 854,Amsterdam,Netherlands,hostel,3,8.4,3,179.83,no,no,yes,2,yes,5
+H0855,City Lodge 855,Berlin,Germany,guesthouse,4,7.3,1.2,123.75,yes,yes,yes,3,yes,20
+H0856,Riverside Hotel 856,Gdansk,Poland,guesthouse,3,9.3,5,147.57,yes,yes,yes,2,no,0
+H0857,Royal Residence 857,Rome,Italy,hostel,3,8,6,110.29,yes,no,yes,3,yes,20
+H0858,Old Town Inn 858,Gdansk,Poland,apartment,3,8.4,5.5,207.46,yes,yes,yes,4,yes,15
+H0859,Smart Lodge 859,Amsterdam,Netherlands,guesthouse,2,9.3,4.4,172.51,yes,yes,yes,2,yes,5
+H0860,Smart Inn 860,Warsaw,Poland,hotel,2,8.3,3.5,57.87,yes,no,yes,4,yes,20
+H0861,Old Town Rooms 861,Berlin,Germany,hostel,3,8.8,1.1,143.11,no,no,yes,2,yes,20
+H0862,Central Stay 862,Paris,France,apartment,4,8.6,0.2,71.54,yes,yes,yes,2,yes,20
+H0863,Canal Inn 863,Berlin,Germany,guesthouse,3,7.9,4.7,176.7,yes,no,yes,2,no,0
+H0864,Old Town Rooms 864,Prague,Czechia,hostel,3,8.9,1.3,109.46,yes,yes,yes,4,yes,20
+H0865,City Stay 865,Prague,Czechia,guesthouse,3,9,4.4,67.57,no,no,yes,3,no,0
+H0866,Royal Inn 866,Budapest,Hungary,hotel,4,9.2,1,44.06,no,no,yes,1,yes,20
+H0867,Green Inn 867,Gdansk,Poland,hostel,5,8.7,0.7,158.95,no,yes,yes,4,yes,10
+H0868,Royal Hotel 868,Berlin,Germany,apartment,2,9,1.9,100.32,no,yes,yes,1,yes,10
+H0869,Smart Residence 869,Paris,France,hotel,5,8.1,1.1,162.86,no,no,yes,4,yes,20
+H0870,Old Town Hotel 870,Budapest,Hungary,apartment,2,9.6,1.5,128.54,no,yes,yes,2,yes,5
+H0871,Central Inn 871,Vienna,Austria,apartment,3,7.9,5.6,117.83,yes,no,yes,2,yes,20
+H0872,Grand Rooms 872,Amsterdam,Netherlands,guesthouse,2,7.2,5.1,101.08,no,no,yes,2,yes,15
+H0873,Old Town Rooms 873,Prague,Czechia,hostel,2,9.5,0.7,172.06,no,no,yes,4,yes,10
+H0874,Grand Lodge 874,Munich,Germany,hostel,5,9.2,5.2,189.16,no,no,yes,4,yes,10
+H0875,Green Inn 875,Paris,France,hostel,2,7.5,2.3,189.74,yes,no,yes,1,yes,5
+H0876,Grand Stay 876,Amsterdam,Netherlands,hotel,3,9.3,4.2,92.76,no,no,yes,3,yes,10
+H0877,Grand Stay 877,Munich,Germany,apartment,5,7.7,3.3,103.18,no,yes,yes,1,yes,5
+H0878,City Inn 878,Berlin,Germany,guesthouse,4,7.2,2.7,154.28,yes,yes,yes,1,no,0
+H0879,Central Rooms 879,Krakow,Poland,hostel,4,8.9,4.4,217.96,no,no,yes,3,no,0
+H0880,Royal Stay 880,Budapest,Hungary,hotel,3,8.8,2.8,177.09,no,no,yes,4,no,0
+H0881,Royal Hotel 881,Prague,Czechia,hostel,2,7.6,3.7,164.94,yes,yes,yes,1,yes,10
+H0882,Riverside Residence 882,Prague,Czechia,hostel,3,8.1,1.8,101.57,yes,yes,yes,3,yes,5
+H0883,Canal Inn 883,Krakow,Poland,hotel,3,7.2,1.2,150.3,yes,yes,yes,3,no,0
+H0884,City Residence 884,Rome,Italy,apartment,3,8,1.4,66.48,no,yes,yes,1,no,0
+H0885,Green Lodge 885,Amsterdam,Netherlands,hostel,4,8.8,4.7,121.12,yes,yes,yes,1,yes,20
+H0886,Canal Rooms 886,Gdansk,Poland,hotel,5,9.1,1.1,60.13,yes,yes,yes,3,no,0
+H0887,Green Lodge 887,Barcelona,Spain,hostel,5,8.1,1,174.11,no,no,yes,1,yes,5
+H0888,Grand Lodge 888,Paris,France,hotel,2,8.7,3.8,51.6,no,no,yes,1,yes,20
+H0889,Green Residence 889,Berlin,Germany,hotel,4,9.3,4.6,146.28,no,yes,yes,4,yes,15
+H0890,Riverside Residence 890,Warsaw,Poland,hotel,3,8,4.7,72.18,no,yes,yes,2,yes,10
+H0891,Royal Hotel 891,Warsaw,Poland,hotel,2,7.6,3,66.13,yes,yes,yes,2,no,0
+H0892,Smart Lodge 892,Vienna,Austria,apartment,2,8.1,5.5,96.39,yes,no,yes,2,yes,20
+H0893,City Residence 893,Prague,Czechia,guesthouse,5,7.7,0.6,120.83,yes,yes,yes,4,yes,10
+H0894,Old Town Rooms 894,Gdansk,Poland,hotel,3,7,5.2,134.34,no,no,yes,2,yes,20
+H0895,Grand Inn 895,Krakow,Poland,hotel,2,9,5.5,50.53,yes,yes,yes,3,yes,5
+H0896,Royal Inn 896,Budapest,Hungary,guesthouse,3,9.1,5,216.7,no,yes,yes,4,yes,5
+H0897,Canal Inn 897,Gdansk,Poland,hotel,2,8.6,5.7,140.14,no,no,yes,4,no,0
+H0898,Old Town Residence 898,Munich,Germany,apartment,3,8,5.8,108.2,no,yes,yes,3,no,0
+H0899,Royal Hotel 899,Warsaw,Poland,hotel,3,8.3,3.3,137.78,yes,no,yes,2,no,0
+H0900,Green Hotel 900,Paris,France,hotel,2,9.4,1.4,153.76,no,no,yes,1,yes,10
+H0901,City Residence 901,Paris,France,hostel,5,8.1,0.4,212.49,no,no,yes,3,yes,20
+H0902,Green Rooms 902,Amsterdam,Netherlands,hotel,5,8,5.5,173.35,no,yes,yes,1,no,0
+H0903,Grand Residence 903,Berlin,Germany,apartment,5,8,2,153.62,no,yes,yes,1,yes,5
+H0904,Canal Inn 904,Rome,Italy,hotel,2,7.3,4.7,67.22,yes,yes,yes,4,no,0
+H0905,Smart Residence 905,Gdansk,Poland,hotel,4,9.2,3.2,90.66,yes,no,yes,3,yes,20
+H0906,City Stay 906,Munich,Germany,guesthouse,4,9.3,1.2,50.47,no,no,yes,4,yes,10
+H0907,Riverside Stay 907,Krakow,Poland,hotel,4,7.2,4.8,186.55,no,yes,yes,3,yes,15
+H0908,Royal Lodge 908,Berlin,Germany,hotel,4,8.9,5.5,49.82,no,yes,yes,2,yes,5
+H0909,Royal Lodge 909,Munich,Germany,hostel,2,8.7,2.7,41.05,yes,yes,yes,3,yes,10
+H0910,Central Stay 910,Rome,Italy,hotel,5,7.8,2.9,103.51,no,no,yes,2,yes,5
+H0911,Riverside Lodge 911,Krakow,Poland,guesthouse,2,9.5,0.5,190.11,yes,no,yes,3,no,0
+H0912,Green Inn 912,Amsterdam,Netherlands,hotel,2,7.5,2,57.05,no,yes,yes,1,no,0
+H0913,Green Lodge 913,Paris,France,hotel,3,7.9,2.7,91.55,yes,yes,yes,2,yes,5
+H0914,Smart Lodge 914,Krakow,Poland,guesthouse,5,7.9,2.9,94.11,yes,yes,yes,3,no,0
+H0915,Old Town Inn 915,Munich,Germany,apartment,4,8.5,3.9,172.54,yes,no,yes,4,yes,15
+H0916,City Inn 916,Prague,Czechia,hostel,2,8.1,2.1,51.48,yes,no,yes,2,no,0
+H0917,City Lodge 917,Amsterdam,Netherlands,hotel,3,9,3.7,119.41,yes,no,yes,1,yes,5
+H0918,Royal Residence 918,Rome,Italy,hostel,4,8.3,2.1,70.31,no,yes,yes,4,yes,15
+H0919,Royal Stay 919,Berlin,Germany,apartment,4,7.2,5.8,209.54,yes,no,yes,4,yes,15
+H0920,Smart Residence 920,Vienna,Austria,hostel,2,9.4,1.2,60.32,yes,no,yes,2,yes,15
+H0921,Smart Hotel 921,Berlin,Germany,apartment,2,8.8,5.7,120.6,no,no,yes,2,yes,10
+H0922,Royal Rooms 922,Krakow,Poland,hotel,4,8.9,3,205.66,yes,yes,yes,3,yes,5
+H0923,Old Town Residence 923,Gdansk,Poland,guesthouse,5,9,1.2,122.04,yes,no,yes,2,yes,20
+H0924,Central Hotel 924,Barcelona,Spain,guesthouse,5,7.7,0.9,197.9,no,no,yes,1,yes,5
+H0925,City Hotel 925,Rome,Italy,apartment,3,8.4,2.5,158.39,yes,no,yes,1,yes,5
+H0926,Grand Inn 926,Prague,Czechia,apartment,3,9,2.5,161.4,yes,no,yes,1,no,0
+H0927,City Rooms 927,Berlin,Germany,guesthouse,5,7.2,2.6,153.55,yes,yes,yes,2,no,0
+H0928,Central Rooms 928,Prague,Czechia,guesthouse,2,9.3,1.8,114.33,no,yes,yes,1,no,0
+H0929,Old Town Lodge 929,Amsterdam,Netherlands,guesthouse,2,8,5.4,43.62,yes,yes,yes,1,yes,5
+H0930,Royal Rooms 930,Budapest,Hungary,guesthouse,5,9.5,5.1,96.95,yes,yes,yes,2,yes,10
+H0931,City Hotel 931,Barcelona,Spain,hostel,4,7.9,4.1,120.05,no,yes,yes,3,yes,5
+H0932,Canal Residence 932,Warsaw,Poland,apartment,4,7.1,0.2,92,yes,no,yes,3,no,0
+H0933,Royal Stay 933,Gdansk,Poland,hostel,2,8.4,1.9,164.18,no,yes,yes,1,yes,10
+H0934,Royal Inn 934,Barcelona,Spain,hostel,2,7.8,5.2,44.54,yes,no,yes,3,yes,10
+H0935,City Inn 935,Amsterdam,Netherlands,apartment,5,8.8,3.4,169.8,yes,yes,yes,1,yes,20
+H0936,Canal Lodge 936,Munich,Germany,hotel,4,7.2,2.7,155.81,no,no,yes,3,yes,5
+H0937,Old Town Lodge 937,Munich,Germany,apartment,4,7.5,2.6,138.33,yes,yes,yes,4,yes,20
+H0938,Old Town Rooms 938,Barcelona,Spain,hotel,3,9.5,0.3,172.71,yes,no,yes,4,yes,10
+H0939,Central Hotel 939,Vienna,Austria,hotel,4,7.5,2.4,158.46,no,no,yes,4,yes,10
+H0940,Green Inn 940,Prague,Czechia,guesthouse,3,8.1,5.6,52.33,yes,yes,yes,1,no,0
+H0941,Riverside Rooms 941,Barcelona,Spain,apartment,5,9.3,2.4,72.64,no,no,yes,1,yes,5
+H0942,Royal Lodge 942,Gdansk,Poland,apartment,5,8.4,1.9,165.33,no,yes,yes,3,yes,20
+H0943,Smart Rooms 943,Barcelona,Spain,hostel,2,7.6,1.1,53.01,yes,yes,yes,1,no,0
+H0944,Grand Stay 944,Paris,France,apartment,2,8,1.4,50.28,yes,yes,yes,1,yes,20
+H0945,Canal Lodge 945,Paris,France,hostel,4,8.5,2.8,150.98,no,yes,yes,4,no,0
+H0946,City Rooms 946,Gdansk,Poland,apartment,3,7.9,2.3,194.5,no,no,yes,2,no,0
+H0947,Smart Rooms 947,Barcelona,Spain,apartment,3,8.6,4.1,150.85,yes,no,yes,4,yes,5
+H0948,Old Town Residence 948,Gdansk,Poland,apartment,4,7.2,5,49.4,yes,no,yes,3,yes,15
+H0949,Royal Stay 949,Vienna,Austria,guesthouse,2,7.8,3.6,62.51,yes,no,yes,4,yes,10
+H0950,Old Town Hotel 950,Munich,Germany,apartment,4,7.8,2.9,142.41,no,no,yes,1,yes,20
+H0951,Canal Stay 951,Warsaw,Poland,hotel,3,8.1,0.4,135.01,yes,no,yes,4,no,0
+H0952,Central Rooms 952,Budapest,Hungary,hotel,4,8,5,141.05,yes,yes,yes,1,yes,20
+H0953,City Hotel 953,Munich,Germany,apartment,5,9.3,3.9,155,no,yes,yes,2,yes,15
+H0954,Old Town Stay 954,Vienna,Austria,guesthouse,3,8.1,4.7,163.83,no,yes,yes,1,yes,5
+H0955,Riverside Residence 955,Amsterdam,Netherlands,hostel,2,7.3,1.6,217.2,no,no,yes,4,no,0
+H0956,Smart Rooms 956,Prague,Czechia,apartment,2,9.2,2.4,111.43,no,yes,yes,2,no,0
+H0957,Grand Rooms 957,Amsterdam,Netherlands,hostel,4,7.4,3.1,142.71,yes,yes,yes,4,no,0
+H0958,Central Lodge 958,Vienna,Austria,hostel,2,8.9,5.4,157.01,yes,yes,yes,4,yes,5
+H0959,Green Inn 959,Vienna,Austria,hostel,3,8.8,5,137.03,no,no,yes,2,yes,5
+H0960,Grand Rooms 960,Berlin,Germany,hotel,5,7.7,1.8,134.25,no,yes,yes,4,yes,20
+H0961,Grand Hotel 961,Warsaw,Poland,hostel,2,8.4,2.1,123.38,no,yes,yes,3,no,0
+H0962,Smart Lodge 962,Budapest,Hungary,apartment,3,7,3.4,127.27,yes,yes,yes,2,no,0
+H0963,Old Town Rooms 963,Gdansk,Poland,hotel,2,7.3,2.5,173.28,no,no,yes,3,no,0
+H0964,Central Inn 964,Berlin,Germany,apartment,5,8.2,1.5,184.89,no,no,yes,4,yes,5
+H0965,Smart Lodge 965,Berlin,Germany,hotel,5,8.6,2.3,216.15,no,yes,yes,1,yes,15
+H0966,Smart Rooms 966,Gdansk,Poland,hostel,5,9.4,4.9,96.54,yes,yes,yes,3,no,0
+H0967,Canal Rooms 967,Gdansk,Poland,apartment,2,9.5,4.8,97.81,yes,yes,yes,3,yes,5
+H0968,Grand Residence 968,Gdansk,Poland,guesthouse,4,8.5,3.7,88.17,yes,yes,yes,4,yes,5
+H0969,Green Inn 969,Prague,Czechia,apartment,4,7.1,2.9,150.88,yes,no,yes,2,yes,5
+H0970,Canal Rooms 970,Warsaw,Poland,hostel,3,7.7,4.6,97.21,no,no,yes,1,no,0
+H0971,Royal Inn 971,Gdansk,Poland,apartment,2,8.5,0.7,108.4,yes,yes,yes,2,yes,15
+H0972,Grand Residence 972,Krakow,Poland,hotel,4,8.9,0.8,80.01,no,yes,yes,3,yes,10
+H0973,Central Hotel 973,Warsaw,Poland,hotel,2,7.5,0.7,129.63,no,no,yes,3,yes,10
+H0974,Grand Stay 974,Budapest,Hungary,hotel,2,8.3,5,135.96,yes,yes,yes,1,yes,5
+H0975,City Hotel 975,Munich,Germany,hostel,2,8.6,2.7,218.24,no,yes,yes,2,yes,5
+H0976,Royal Rooms 976,Vienna,Austria,hotel,4,7.5,3.6,155.73,no,yes,yes,4,yes,10
+H0977,Green Residence 977,Warsaw,Poland,hostel,2,7.9,2.7,52.99,yes,yes,yes,2,no,0
+H0978,Canal Hotel 978,Gdansk,Poland,hotel,3,7.9,2.1,58.43,no,no,yes,2,yes,20
+H0979,City Lodge 979,Amsterdam,Netherlands,guesthouse,2,8.7,2.8,195.79,no,no,yes,3,yes,10
+H0980,Canal Residence 980,Vienna,Austria,hotel,5,9.2,1.2,111.12,no,yes,yes,3,no,0
+H0981,Smart Lodge 981,Munich,Germany,guesthouse,2,8.6,4.2,102.96,no,no,yes,1,no,0
+H0982,Green Rooms 982,Amsterdam,Netherlands,guesthouse,4,8.3,2,175.83,yes,yes,yes,4,no,0
+H0983,Old Town Rooms 983,Rome,Italy,apartment,4,7.6,0.6,153.71,yes,no,yes,4,no,0
+H0984,Grand Hotel 984,Barcelona,Spain,guesthouse,2,7,2.7,124.57,yes,yes,yes,3,no,0
+H0985,Canal Residence 985,Krakow,Poland,guesthouse,3,7,1.2,175.71,no,no,yes,3,no,0
+H0986,Canal Hotel 986,Prague,Czechia,hostel,5,8.2,0.5,113.05,yes,no,yes,1,yes,10
+H0987,Green Hotel 987,Krakow,Poland,hostel,3,9.4,2.5,144.6,yes,no,yes,2,yes,20
+H0988,Smart Stay 988,Barcelona,Spain,apartment,2,7.6,0.7,145.15,no,no,yes,2,no,0
+H0989,Smart Inn 989,Vienna,Austria,hotel,5,9.3,2.3,63.7,yes,yes,yes,2,yes,20
+H0990,Green Lodge 990,Krakow,Poland,hotel,3,9.6,3.6,118.28,no,no,yes,3,yes,20
+H0991,Old Town Inn 991,Berlin,Germany,hotel,4,9,3.8,107.12,no,no,yes,1,yes,5
+H0992,Canal Rooms 992,Munich,Germany,hotel,4,8.1,2.4,85.71,no,yes,yes,4,yes,5
+H0993,Royal Stay 993,Paris,France,hotel,4,7.5,1.6,116.51,no,yes,yes,3,yes,20
+H0994,Royal Hotel 994,Paris,France,guesthouse,3,9.1,2.5,105.42,yes,yes,yes,2,no,0
+H0995,Green Rooms 995,Budapest,Hungary,apartment,3,9.3,0.4,87.75,no,no,yes,4,no,0
+H0996,Old Town Lodge 996,Warsaw,Poland,apartment,5,7.3,5.7,50.43,no,no,yes,2,no,0
+H0997,Green Lodge 997,Munich,Germany,apartment,4,8.7,5.1,194,no,no,yes,1,no,0
+H0998,Canal Inn 998,Berlin,Germany,hotel,3,7.3,2.8,149.63,yes,no,yes,4,yes,15
+H0999,Old Town Rooms 999,Amsterdam,Netherlands,guesthouse,5,7.1,2.4,190.82,no,yes,yes,4,yes,15
+H1000,Canal Hotel 1000,Munich,Germany,hotel,2,7.5,1.4,103.56,yes,yes,yes,1,yes,10
