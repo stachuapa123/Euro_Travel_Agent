@@ -8,11 +8,17 @@ Group: Kacper Neumann, Bartłomiej Śliwa, Stanisław Apanasiewicz
 
 - **Java 17 or newer.** Check with `java -version`.
 - **Maven 3.8 or newer.** Check with `mvn -v`. If the command is not recognized, see [Installing Maven](#installing-maven).
+- **IntelliJ idea would be the best tool**
+
+
 
 JADE is downloaded automatically by Maven from Maven Central (`de.enflexit.jade`, a build of the original JADE 4.6 code).
 
 ## Build and run
 
+
+1. run this in terminal
+ `$env:Path += ";C:\Program Files\JetBrains\IntelliJ IDEA 2025.2\plugins\maven\lib\maven3\bin` (or change IDEA 202X.X to what you have)
 Run these from the project folder (the one containing `pom.xml`):
 
 ```bash
