@@ -120,7 +120,7 @@ public class ConsoleUserInterface implements UserInterface {
         double maxHotel = ask("max_hotel_per_night_eur", "EUR, e.g. 150",
                 s -> positive("max_hotel_per_night_eur", s));
         int nights = ask("nights", "e.g. 5", s -> positiveInt("nights", s));
-        TransportMode mode = ask("preferred_mode", "ANY/TRAIN/BUS/PLANE, Enter = ANY",
+        TransportMode mode = ask("preferred_mode", "ANY/TRAIN/PLANE, Enter = ANY",
                 s -> s.isBlank() ? TransportMode.ANY : TransportMode.parse(s));
         // Typed in hours for convenience; the request itself stores minutes.
         int maxDurationMin = ask("max transport time per leg", "hours, e.g. 4.5",
